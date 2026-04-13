@@ -1,18 +1,28 @@
 import os
+import urllib3
 from dotenv import load_dotenv
-from aemet import Aemet
 
-# Cargar variables del archivo .env
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 load_dotenv()
 AEMET_API_KEY = os.environ.get("AEMET_API_KEY", "")
-aemet_client = Aemet(api_key=AEMET_API_KEY)
+import requests
 
-# Predicción normalizada para Galicia (ccaa='17') para hoy
-prediccion = aemet_client.get_prediccion_normalizada(
-    ambito='ccaa',
-    dia='hoy',
-    ccaa='17'  # Código de Galicia
-)
+url = "https://opendata.aemet.es/opendata/api/prediccion/ccaa/hoy/gal/"
 
-print("Predicción AEMET para Galicia")
-print(prediccion)
+querystring = {"api_key":AEMET_API_KEY}
+
+headers = {
+    'cache-control': "no-cache"
+    }
+
+response = requests.request("GET", url, headers=headers, params=querystring)
+
+respuestaJson = response.json()
+
+urlDatos = respuestaJson["datos"]
+
+responseDatos = requests.get(urlDatos, verify=False)
+
+texto = responseDatos.text
+texto_limpio = texto.replace('\r', '').strip()
+print(texto_limpio)
