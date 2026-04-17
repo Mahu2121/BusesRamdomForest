@@ -2,8 +2,7 @@ import os
 import urllib3
 from dotenv import load_dotenv
 import requests
-import json
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from typing import Optional
 
 
@@ -30,7 +29,6 @@ class HourlyWeather:
     precipitacion: Optional[float] = None
     nieve: Optional[float] = None
 
-    # Probabilidades (se asignan por bloque horario, p.e. "0814")
     probPrecipitacion: Optional[float] = None
     probNieve: Optional[float] = None
     probTormenta: Optional[float] = None
