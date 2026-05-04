@@ -8,24 +8,19 @@ from typing import Optional
 
 @dataclass
 class HourlyWeather:
-    """Registro meteorológico por hora para un día concreto."""
     fecha: str
-    periodo: int  # hora (0-23)
+    periodo: int
     orto: str
     ocaso: str
 
-    # Estado del cielo
     estadoCielo_value: Optional[str] = None
     estadoCielo_descripcion: Optional[str] = None
 
-    # Temperaturas
     temperatura: Optional[float] = None
     sensTermica: Optional[float] = None
 
-    # Humedad
     humedadRelativa: Optional[float] = None
 
-    # Precipitación y nieve
     precipitacion: Optional[float] = None
     nieve: Optional[float] = None
 
@@ -33,18 +28,12 @@ class HourlyWeather:
     probNieve: Optional[float] = None
     probTormenta: Optional[float] = None
 
-    # Viento
     viento_direccion: Optional[str] = None
     viento_velocidad: Optional[float] = None
     viento_rachaMax: Optional[float] = None
 
 
 class AEMETIngestion:
-    """
-    Clase de ingesta para el JSON horario de AEMET.
-    Transforma la respuesta de la API en una lista de HourlyWeather,
-    uno por cada hora disponible en cada día de la predicción.
-    """
 
     def __init__(self, raw_json: list):
         self.raw = raw_json
@@ -52,7 +41,6 @@ class AEMETIngestion:
 
 
     def parse(self) -> list[HourlyWeather]:
-        """Parsea el JSON completo y devuelve los registros horarios."""
         self.records = []
         for entry in self.raw:
             for dia in entry.get("prediccion", {}).get("dia", []):
@@ -61,7 +49,6 @@ class AEMETIngestion:
 
 
     def parse_dia(self, dia: dict):
-        """Construye un HourlyWeather por cada hora dentro de un día."""
         fecha = dia.get("fecha", "")
         orto = dia.get("orto", "")
         ocaso = dia.get("ocaso", "")
@@ -74,12 +61,10 @@ class AEMETIngestion:
         nieve_map = self.simple_map(dia.get("nieve", []))
         viento_map = self.parse_viento(dia.get("vientoAndRachaMax", []))
 
-        # Probabilidades: cubren rangos ("0814"), las expandimos a cada hora
         prob_prec = self.expand_prob(dia.get("probPrecipitacion", []))
         prob_nieve = self.expand_prob(dia.get("probNieve", []))
         prob_torm = self.expand_prob(dia.get("probTormenta", []))
 
-        # Unión de todos los periodos horarios presentes
         all_periodos = set()
         for m in [cielo_map, temp_map, sens_map, hum_map, prec_map, nieve_map, viento_map]:
             all_periodos.update(m.keys())
@@ -112,12 +97,10 @@ class AEMETIngestion:
 
     @staticmethod
     def simple_map(items: list) -> dict:
-        """{'periodo': value_str} para arrays simples {value, periodo}."""
         return {item["periodo"]: item.get("value") for item in items if "periodo" in item and "value" in item}
 
     @staticmethod
     def map_by_periodo(items: list, value_key="value", extra_key=None) -> dict:
-        """{'periodo': {value_key: ..., extra_key: ...}} para arrays con campos extra."""
         result = {}
         for item in items:
             p = item.get("periodo")
@@ -130,11 +113,6 @@ class AEMETIngestion:
 
     @staticmethod
     def parse_viento(items: list) -> dict:
-        """
-        vientoAndRachaMax mezcla dos tipos de registros por periodo:
-          - {direccion: [...], velocidad: [...], periodo: "HH"}  → velocidad media
-          - {value: "XX", periodo: "HH"}                         → racha máxima
-        """
         viento: dict = {}
         for item in items:
             p = item.get("periodo")
@@ -151,10 +129,6 @@ class AEMETIngestion:
 
     @staticmethod
     def expand_prob(items: list) -> dict:
-        """
-        Expande registros de probabilidad con rango ("0814") a cada hora individual.
-        También admite periodos de un solo bloque ("2002" → horas 20, 21, 22, 23, 00, 01).
-        """
         expanded = {}
         for item in items:
             periodo = item.get("periodo", "")
@@ -180,34 +154,57 @@ class AEMETIngestion:
             return None
 
 
-if __name__ == "__main__":
-
+def get_aemet_weather(api_key: Optional[str] = None, municipio: str = "36057") -> list:
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-    load_dotenv()
-    AEMET_API_KEY = os.environ.get("AEMET_API_KEY", "")
+    if api_key is None:
+        load_dotenv()
+        api_key = os.environ.get("AEMET_API_KEY", "")
 
-    url = "https://opendata.aemet.es/opendata/api/prediccion/especifica/municipio/horaria/36057"
+    url = f"https://opendata.aemet.es/opendata/api/prediccion/especifica/municipio/horaria/{municipio}"
+    querystring = {"api_key": api_key} if api_key else {}
+    headers = {"cache-control": "no-cache"}
 
-    querystring = {"api_key": AEMET_API_KEY}
+    response = requests.get(url, headers=headers, params=querystring, timeout=15)
+    try:
+        response.raise_for_status()
+    except Exception as e:
+        raise RuntimeError(f"Error en petición AEMET: {e}") from e
 
-    headers = {
-        'cache-control': "no-cache"
-    }
+    try:
+        respuestaJson = response.json()
+    except ValueError as e:
+        raise RuntimeError("Respuesta de AEMET no es JSON válido") from e
 
-    response = requests.request("GET", url, headers=headers, params=querystring)
+    # La respuesta esperada es un dict con la clave 'datos' que apunta a la URL
+    if isinstance(respuestaJson, dict) and "datos" in respuestaJson:
+        urlDatos = respuestaJson.get("datos")
+        if not urlDatos:
+            raise RuntimeError("La respuesta de AEMET no contiene una URL válida en 'datos'")
 
-    respuestaJson = response.json()
+        responseDatos = requests.get(urlDatos, verify=False, timeout=15)
+        try:
+            responseDatos.raise_for_status()
+        except Exception as e:
+            raise RuntimeError(f"Error descargando datos AEMET desde {urlDatos}: {e}") from e
 
-    urlDatos = respuestaJson["datos"]
+        try:
+            aemet_response = responseDatos.json()
+        except ValueError as e:
+            raise RuntimeError("Contenido en 'datos' no es JSON válido") from e
 
-    responseDatos = requests.get(urlDatos, verify=False)
+        ingestion = AEMETIngestion(aemet_response)
+        return ingestion.parse()
+    else:
+        raise RuntimeError(f"Respuesta inesperada de AEMET: {respuestaJson}")
 
-    aemet_response = responseDatos.json()
 
-    print(aemet_response)
+if __name__ == "__main__":
+    try:
+        records = get_aemet_weather()
+    except Exception as e:
+        print("Error al obtener predicción AEMET:", e)
+    else:
+        print(f"Registros obtenidos: {len(records)}")
+        for r in records[:24]:
+            print(r)
 
-    ingestion = AEMETIngestion(aemet_response)
-    records = ingestion.parse()
-
-    for r in records[4:28]:
-        print(r)
