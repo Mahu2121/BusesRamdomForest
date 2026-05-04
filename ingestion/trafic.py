@@ -49,21 +49,14 @@ class TramoTrafico:
 
     @property
     def nivel_congestion(self) -> int:
-        """0 (sin datos) → 4 (muy denso)"""
         return ESTADO_A_NIVEL.get(self.estado, 0)
 
     @property
     def vel_libre_ms(self) -> float:
-        """Velocidad real del tramo en m/s"""
         return round(self.longitud / self.segundos, 2) if self.segundos else 0.0
 
     @property
     def ratio_congestion(self) -> float:
-        """
-        Cuánto más lento va el tramo respecto a su velocidad media.
-        1.0 = fluido, >1.5 = congestionado.
-        Buen feature continuo para el modelo.
-        """
         if self.vel_media == 0:
             return 0.0
         tiempo_libre = (self.longitud / 1000) / self.vel_media * 3600
@@ -87,7 +80,6 @@ class TramoTrafico:
         return d
 
 # Parsers
-
 def _parse_fecha(raw: str) -> datetime:
     for fmt in ("%d/%m/%Y %H:%M:%S", "%d/%m/%Y %H:%M"):
         try:
@@ -162,19 +154,6 @@ def trafico_a_geodataframe(tramos: dict):
 
 
 def asignar_trafico_a_paradas(stops_df, tramos_gdf, radio_metros: float = 100):
-    """
-       Para cada parada GTFS asigna el tramo de tráfico más cercano.
-
-       Args:
-           stops_df:     DataFrame con columnas [stop_id, stop_lat, stop_lon]
-           tramos_gdf:   GeoDataFrame de trafico_a_geodataframe()
-           radio_metros: distancia máxima en metros (default 100m)
-
-       Returns:
-           stops_df enriquecido con:
-             id_tramo_cercano, nombre_tramo, estado,
-             vel_media, nivel_congestion, ratio_congestion, dist_m
-       """
     stops_gdf = gpd.GeoDataFrame(
         stops_df.copy(),
         geometry=gpd.points_from_xy(stops_df["stop_lon"], stops_df["stop_lat"]),
