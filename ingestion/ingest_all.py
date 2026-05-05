@@ -1,7 +1,8 @@
-from parkingOcupation import parse_parkings, parkings_a_dataframe
-from trafic import parse_trafico, trafico_a_dataframe
-from weather import get_aemet_weather
-
+from ingestion import load_stop_times, build_stop_features
+from .parkingOcupation import parse_parkings, parkings_a_dataframe
+from .trafic import parse_trafico, trafico_a_dataframe
+from .weather import get_aemet_weather
+from .stops import load_stops
 import pandas as pd
 
 
@@ -13,6 +14,14 @@ def get_ingestion_data(aemet_api_key: str | None = None, municipio: str = "36057
     # Tráfico
     tramos = parse_trafico()
     trafico_df = trafico_a_dataframe(tramos)
+
+    # Paradas de bus
+    stops = load_stops()
+    stops_df = pd.DataFrame(stops)
+
+    # Tiempos
+    stop_times = load_stop_times()
+    stop_times_df = build_stop_features(stops_df, stop_times)
 
     # Weather
     try:
@@ -26,4 +35,9 @@ def get_ingestion_data(aemet_api_key: str | None = None, municipio: str = "36057
         "parkings": parkings_df,
         "trafico": trafico_df,
         "weather": weather_df,
+        "stops": stops_df,
+        "stop_times": stop_times_df
     }
+
+if __name__ == "__main__":
+    get_ingestion_data()
