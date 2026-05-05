@@ -132,6 +132,7 @@ def parse_trafico(source=None) -> dict[int, TramoTrafico]:
         )
         tramos[tramo.id_tramo] = tramo
 
+    print(tramos)
     return tramos
 
 
@@ -176,11 +177,4 @@ def asignar_trafico_a_paradas(stops_df, tramos_gdf, radio_metros: float = 100):
 
 
 if __name__ == "__main__":
-
     tramos = parse_trafico()
-
-    print(f"{'id':>4} {'estado':<12} {'vel km/h':>8} {'long':>7} {'ratio':>6}  nombre")
-    print("-" * 72)
-    for tid, t in sorted(tramos.items()):
-        print(f"{tid:>4} {t.estado:<12} {t.vel_media:>7.0f}k {t.longitud:>6}m "
-              f"{t.ratio_congestion:>5.2f}x  {t.nombre_tramo[:35]}         {t.coordinates} ")

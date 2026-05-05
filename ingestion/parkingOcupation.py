@@ -1,7 +1,7 @@
 import requests
 from dataclasses import dataclass, asdict
 from datetime import datetime
-
+import pandas as pd
 import geopandas as gpd
 
 
@@ -85,20 +85,17 @@ def parse_parkings(source=None) -> dict[int, Parking]:
         )
         parkings[parking.id] = parking
 
+    print(parkings)
     return parkings
 
 
 # Utilidades
 
 def parkings_a_dataframe(parkings: dict):
-    """Convierte a DataFrame de pandas."""
-    import pandas as pd
     return pd.DataFrame([p.to_dict() for p in parkings.values()]).set_index("id")
 
 
 def parkings_a_geodataframe(parkings: dict):
-    """Convierte a GeoDataFrame con geometría Point (EPSG:4326)."""
-    import geopandas as gpd
     df = parkings_a_dataframe(parkings).reset_index()
     return gpd.GeoDataFrame(
         df,
@@ -136,17 +133,3 @@ def asignar_parkings_a_paradas(stops_df, parkings_gdf, radio_metros: float = 500
 
 if __name__ == "__main__":
     parkings = parse_parkings()
-
-    print(f"{'id':<4} {'nombre':<30} {'libre':>6} {'total':>6} {'ocup%':>6}  {'nivel'}")
-    print("-" * 65)
-    for pid, p in sorted(parkings.items()):
-        print(
-            f"{pid:<4} {p.nombre:<30} {p.plazas_libres:>6} {p.total_plazas:>6} {p.ocupacion_real:>5.1f}%  {p.nivel_ocupacion}")
-
-    print(f"\n── Actualizado: {list(parkings.values())[0].fecha_hora}")
-
-    # Totales
-    total_plazas = sum(p.total_plazas for p in parkings.values())
-    total_libres = sum(p.plazas_libres for p in parkings.values())
-    ocup_global = round((total_plazas - total_libres) / total_plazas * 100, 1)
-    print(f"\n── Global: {total_plazas} plazas | {total_libres} libres | {ocup_global}% ocupado")

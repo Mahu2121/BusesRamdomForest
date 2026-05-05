@@ -175,7 +175,6 @@ def get_aemet_weather(api_key: Optional[str] = None, municipio: str = "36057") -
     except ValueError as e:
         raise RuntimeError("Respuesta de AEMET no es JSON válido") from e
 
-    # La respuesta esperada es un dict con la clave 'datos' que apunta a la URL
     if isinstance(respuestaJson, dict) and "datos" in respuestaJson:
         urlDatos = respuestaJson.get("datos")
         if not urlDatos:
@@ -193,6 +192,7 @@ def get_aemet_weather(api_key: Optional[str] = None, municipio: str = "36057") -
             raise RuntimeError("Contenido en 'datos' no es JSON válido") from e
 
         ingestion = AEMETIngestion(aemet_response)
+        print(ingestion)
         return ingestion.parse()
     else:
         raise RuntimeError(f"Respuesta inesperada de AEMET: {respuestaJson}")
