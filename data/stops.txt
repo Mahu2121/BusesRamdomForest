@@ -1,0 +1,1180 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+3493,P006930,Praza de América  1,Parada,42.2209973130163,-8.73283517659561,,,,,Europe/Madrid,1
+3112,P003250,Rúa da Coruña  26,Parada,42.2223786247123,-8.73413424681594,,,,,Europe/Madrid,1
+3498,P006970,Rúa da Coruña  52,Parada,42.2237819990941,-8.73525899065575,,,,,Europe/Madrid,1
+4049,P0014892,Rúa do Conde de Torrecedeira  123,Parada,42.2249294143596,-8.73541406688261,,,,,Europe/Madrid,1
+3658,P008460,Rúa do Conde de Torrecedeira  105,Parada,42.2275002252348,-8.73409670679206,,,,,Europe/Madrid,1
+3660,P008480,Rúa do Conde de Torrecedeira  81,Parada,42.2296167657384,-8.73286104305512,,,,,Europe/Madrid,1
+3657,P008450,Rúa do Conde de Torrecedeira (Parque),Parada,42.2315114370995,-8.73217799991117,,,,,Europe/Madrid,1
+3659,P008470,Rúa do Conde de Torrecedeira  21,Parada,42.2341066391334,-8.73130256915226,,,,,Europe/Madrid,1
+3794,P0014173,Rúa do Gaiteiro de Ricardo Portela (fronte Pavillón),Parada,42.2359007544128,-8.7313914350776,,,,,Europe/Madrid,1
+2898,P001150,Rúa da Ribeira do Berbés ,Parada,42.2373842644901,-8.7296030062744,,,,,Europe/Madrid,1
+3953,P0014333,Rúa de Cánovas del Castillo  18,Parada,42.2401890112755,-8.72676533077919,,,,,Europe/Madrid,1
+5526,PA20206,Rúa do Marqués de Valladares (fronte 19),Parada,42.2382719222962,-8.72335353246869,,,,,Europe/Madrid,1
+5528,PA20208,Rúa de Colón  12,Parada,42.2380286273347,-8.72055654759691,,,,,Europe/Madrid,1
+3885,P0014264,Rúa de Urzáiz - Príncipe,Parada,42.2358735452815,-8.72008331665535,,,,,Europe/Madrid,1
+3695,P008820,Rúa de Urzáiz  28,Parada,42.2351699795102,-8.71839878194984,,,,,Europe/Madrid,1
+3352,P005610,Avda. da Gran Vía  12,Parada,42.2335035314681,-8.71723673936839,,,,,Europe/Madrid,1
+3358,P005670,Avda. da Gran Vía  46,Parada,42.2309888925252,-8.71867282992082,,,,,Europe/Madrid,1
+3758,P0014135,Rúa de Santo Amaro (Praza de España),Parada,42.2291741448086,-8.72014305524624,,,,,Europe/Madrid,1
+3027,P002440,Rúa de Barcelona  2,Parada,42.2283155337028,-8.72174195778135,,,,,Europe/Madrid,1
+3028,P002450,Rúa de Barcelona  32,Parada,42.2260246916835,-8.72339080360473,,,,,Europe/Madrid,1
+3026,P002430,Rúa de Barcelona  64,Parada,42.2239170683216,-8.72616882737472,,,,,Europe/Madrid,1
+4045,P0014475,Rúa de Barcelona  78,Parada,42.2229923543909,-8.72830038233832,,,,,Europe/Madrid,1
+3449,P006530,Rúa do Pintor Laxeiro  4,Parada,42.2224808515578,-8.72981296663531,,,,,Europe/Madrid,1
+3790,P0014169,Avda. das Camelias  136,Parada,42.2224422400883,-8.73127105239536,,,,,Europe/Madrid,1
+4098,P0020026,Rúa das Teixugueiras  29,Parada,42.2064883657874,-8.7599066243624,,,,,Europe/Madrid,1
+4047,P0014890,Rúa das Teixugueiras  25,Parada,42.2075453308031,-8.7587184057688,,,,,Europe/Madrid,1
+3980,P0014360,Rúa das Teixugueiras  19-Portal 5,Parada,42.2089658571391,-8.75702056746238,,,,,Europe/Madrid,1
+3981,P0014361,Rúa das Teixugueiras  17,Parada,42.209770472003,-8.7552959070658,,,,,Europe/Madrid,1
+4007,P0014388,Rúa das Teixugueiras  11,Parada,42.2116101241891,-8.75455025295966,,,,,Europe/Madrid,1
+3957,P0014337,Rúa do Limpiño (Rotonda Rúa Teixugueiras),Parada,42.2130802180974,-8.75466022352927,,,,,Europe/Madrid,1
+3746,P0014123,Rúa do Porriño  9,Parada,42.2141278185112,-8.75202759400628,,,,,Europe/Madrid,1
+3464,P006650,Rúa do Porriño (Instituto),Parada,42.2155540546171,-8.75304246169239,,,,,Europe/Madrid,1
+3410,P006180,Rúa de Marín (fronte 30),Parada,42.2185045404162,-8.7538926336467,,,,,Europe/Madrid,1
+3711,P008950,Rúa de Marín  5,Parada,42.2187125725441,-8.75011434995974,,,,,Europe/Madrid,1
+3709,P008930,Rúa de Vilagarcía de Arousa (cruce Rúa do Grove),Parada,42.2201411499157,-8.74508275689902,,,,,Europe/Madrid,1
+3297,P005070,Rúa da Estrada  10-12,Parada,42.2205358364001,-8.74141599047391,,,,,Europe/Madrid,1
+3299,P005090,Rúa da Estrada  1,Parada,42.220359068495,-8.73886199876299,,,,,Europe/Madrid,1
+2909,P001260,Avda. de Castelao  21,Parada,42.219775976508,-8.73625552264701,,,,,Europe/Madrid,1
+3063,P002780,Avda. das Camelias  135,Parada,42.2223871783743,-8.73120769760476,,,,,Europe/Madrid,1
+3951,P0014331,Rúa de Álvaro Cunqueiro  30,Parada,42.2237698283283,-8.72893872779855,,,,,Europe/Madrid,1
+5446,PA20170,Rúa de Álvaro Cunqueiro  4,Parada,42.2245448049109,-8.73041356127334,,,,,Europe/Madrid,1
+4056,P0014899,Rúa de López Mora  33,Parada,42.2254857186241,-8.73050143389068,,,,,Europe/Madrid,1
+3379,P005880,Rúa de López Mora  19,Parada,42.2268005664525,-8.7317996230539,,,,,Europe/Madrid,1
+3444,P006480,Rúa de Pi i Margall  137,Parada,42.2291491882537,-8.73188690797414,,,,,Europe/Madrid,1
+3916,P0014295,Rúa de Pi i Margall  121,Parada,42.230436357767,-8.7314374730116,,,,,Europe/Madrid,1
+3448,P006520,Rúa de Pi i Margall  95,Parada,42.232285981408,-8.73081632399536,,,,,Europe/Madrid,1
+3446,P006500,Rúa de Pi i Margall  51,Parada,42.2336900676054,-8.73010017418838,,,,,Europe/Madrid,1
+5512,PA20197,Rúa de Pi i Margall  3-5,Parada,42.2355870301881,-8.72883089703981,,,,,Europe/Madrid,1
+3057,P002735,Rúa da Cachamuíña (Concello),Parada,42.2350333137119,-8.72720219773009,,,,,Europe/Madrid,1
+3700,P008870,Rúa de Venezuela  4,Parada,42.2342500427101,-8.72436153083314,,,,,Europe/Madrid,1
+3701,P008880,Rúa de Venezuela  20,Parada,42.2331881262318,-8.72155331019428,,,,,Europe/Madrid,1
+3704,P008910,Rúa de Venezuela  42,Parada,42.2322240460151,-8.71898582354467,,,,,Europe/Madrid,1
+3357,P005660,Avda. da Gran Vía  19,Parada,42.2329579184084,-8.71721573481472,,,,,Europe/Madrid,1
+3345,P005540,Avda. de García Barbón  28,Parada,42.2367596850861,-8.71638458132256,,,,,Europe/Madrid,1
+3347,P005560,Avda. de García Barbón  60,Parada,42.2368969192365,-8.71290290517254,,,,,Europe/Madrid,1
+3349,P005580,Avda. de García Barbón  90,Parada,42.2382673477967,-8.70987316611334,,,,,Europe/Madrid,1
+4015,P0014396,Avda. de García Barbón  106,Parada,42.2399653653799,-8.70802428233222,,,,,Europe/Madrid,1
+3340,P005500,Avda. de García Barbón  126,Parada,42.2417802497337,-8.70672093567975,,,,,Europe/Madrid,1
+3611,P008010,Rúa de Sanjurjo Badía  106,Parada,42.245018171809,-8.70334964611305,,,,,Europe/Madrid,1
+3613,P008030,Rúa de Sanjurjo Badía  136,Parada,42.2460562611882,-8.70168482543312,,,,,Europe/Madrid,1
+3615,P008050,Rúa de Sanjurjo Badía  202,Parada,42.247765295602,-8.6989182028116,,,,,Europe/Madrid,1
+3755,P0014132,Rúa de Sanjurjo Badía  252,Parada,42.2493076314302,-8.69654200849942,,,,,Europe/Madrid,1
+2907,P001240,Avda. de Buenos Aires  8 ,Parada,42.249128205394,-8.69514772967585,,,,,Europe/Madrid,1
+2905,P001220,Avda. de Buenos Aires  46,Parada,42.2470970552338,-8.69310925082453,,,,,Europe/Madrid,1
+3669,P008570,Rúa da Travesía de Vigo  239,Parada,42.2461433193661,-8.69359937000084,,,,,Europe/Madrid,1
+3668,P008560,Rúa da Travesía de Vigo  213,Parada,42.2440987098588,-8.69614733027353,,,,,Europe/Madrid,1
+3666,P008540,Rúa da Travesía de Vigo  193,Parada,42.242844315886,-8.69829582502331,,,,,Europe/Madrid,1
+3664,P008520,Rúa da Travesía de Vigo  153,Parada,42.2413328832909,-8.70205990634983,,,,,Europe/Madrid,1
+3662,P008500,Rúa da Travesía de Vigo  105,Parada,42.2384555477798,-8.70381481229559,,,,,Europe/Madrid,1
+3672,P008600,Rúa da Travesía de Vigo  71,Parada,42.2363500928807,-8.70429745040855,,,,,Europe/Madrid,1
+3671,P008590,Rúa da Travesía de Vigo  37,Parada,42.2336812237455,-8.70670213621358,,,,,Europe/Madrid,1
+3675,P008630,Rúa da Travesía de Vigo  7,Parada,42.2320459310342,-8.70860379283246,,,,,Europe/Madrid,1
+3698,P008850,Rúa de Urzáiz  97,Parada,42.232341314804,-8.71089205363489,,,,,Europe/Madrid,1
+3688,P008750,Rúa de Urzáiz - Est. Intermodal - C.C.,Parada,42.2337229769207,-8.71450276193459,,,,,Europe/Madrid,1
+3690,P008770,Rúa de Urzáiz  13,Parada,42.2354209287861,-8.71872187671502,,,,,Europe/Madrid,1
+3343,P005520,FORA DE SERVIZO.G.B.,Parada,42.2374855855276,-8.71939780078134,,,,,Europe/Madrid,1
+5508,PA20193,Rúa de Policarpo Sanz  25,Parada,42.2376672008846,-8.72126715983279,,,,,Europe/Madrid,1
+3486,P006860,Praza de Compostela,Parada,42.2391183457202,-8.72253127352522,,,,,Europe/Madrid,1
+5510,PA20195,Praza de Compostela (fronte 35),Parada,42.2393606004768,-8.7241314638909,,,,,Europe/Madrid,1
+3424,P006300,Rúa de Cánovas del Castillo (Centro Comercial),Parada,42.2401295406139,-8.72715975875732,,,,,Europe/Madrid,1
+3844,P0014223,"Avda. Beiramar ""Porto Pesqueiro Berbés""",Parada,42.2366851533131,-8.73160930296882,,,,,Europe/Madrid,1
+3845,P0014224,Rúa do Conde de Torrecedeira  16,Parada,42.2342859273087,-8.73126650716955,,,,,Europe/Madrid,1
+3846,P0014225,Rúa do Conde de Torrecedeira  50,Parada,42.2317165737623,-8.73230873723001,,,,,Europe/Madrid,1
+3847,P0014226,Rúa do Conde de Torrecedeira  70,Parada,42.2295748589222,-8.73307397277087,,,,,Europe/Madrid,1
+3848,P0014227,Rúa do Conde de Torrecedeira  86 ,Parada,42.2269665701624,-8.73455970577759,,,,,Europe/Madrid,1
+5540,PA20215,Rúa da Coruña  21,Parada,42.2238802960314,-8.73552019637114,,,,,Europe/Madrid,1
+3111,P003240,Rúa da Coruña  5,Parada,42.222147289974,-8.73416791647594,,,,,Europe/Madrid,1
+3494,P006940,Praza de América  3,Parada,42.2206639016878,-8.73341989205637,,,,,Europe/Madrid,1
+3328,P005380,Avda. da Florida  8,Parada,42.2197430526449,-8.73432218728412,,,,,Europe/Madrid,1
+3921,P0014300,Avda. da Florida  30,Parada,42.2179075475897,-8.73707435954969,,,,,Europe/Madrid,1
+3325,P005350,Avda. da Florida  40,Parada,42.2167792480037,-8.73870514263075,,,,,Europe/Madrid,1
+3319,P005290,Avda. da Florida  60,Parada,42.2150609359855,-8.74130956758421,,,,,Europe/Madrid,1
+3326,P005360,Avda. da Florida  70,Parada,42.212804214807,-8.74450676072996,,,,,Europe/Madrid,1
+3783,P0014162,Avda. da Florida  82,Parada,42.2113718708343,-8.74652378190916,,,,,Europe/Madrid,1
+3321,P005310,Avda. da Florida  140,Parada,42.2080243075383,-8.75041298498076,,,,,Europe/Madrid,1
+3751,P0014128,Camiño do Caramuxo (fronte 9),Parada,42.207332919682,-8.75215910304945,,,,,Europe/Madrid,1
+3979,P0014359,Rúa das Teixugueiras  16-Portal 2,Parada,42.2122357379095,-8.7550117456386,,,,,Europe/Madrid,1
+4008,P0014389,Rúa das Teixugueiras  22,Parada,42.2102126032577,-8.7550799892401,,,,,Europe/Madrid,1
+3978,P0014358,Rúa das Teixugueiras  28,Parada,42.2090545565394,-8.75715864967097,,,,,Europe/Madrid,1
+4012,P0014393,Rúa da Pedra Seixa (fronte Colexio),Parada,42.2095689355145,-8.76077700118773,,,,,Europe/Madrid,1
+3653,P008410,Rúa de Tomás Paredes (fronte 108),Parada,42.2180063457877,-8.75415436708865,,,,,Europe/Madrid,1
+3655,P008430,Rúa de Tomás Paredes  9,Parada,42.2212295183711,-8.75341165744072,,,,,Europe/Madrid,1
+3068,P002830,Rúa de Camilo Veiga  33,Parada,42.222438550315,-8.7519785515521,,,,,Europe/Madrid,1
+3651,P008390,Rúa de Tomás A. Alonso  251,Parada,42.2235105322766,-8.74890326444368,,,,,Europe/Madrid,1
+3786,P0014165,Rúa de Tomás A. Alonso  193,Parada,42.2249050289055,-8.74528577475817,,,,,Europe/Madrid,1
+3646,P008340,Rúa de Tomás A. Alonso  137,Parada,42.2238404738004,-8.74043289149697,,,,,Europe/Madrid,1
+3500,P006990,Praza Eugenio Fadrique  9,Parada,42.2240996130004,-8.73583834438634,,,,,Europe/Madrid,1
+5549,PA20217,Rosalía de Castro  4,Parada,42.2382294214165,-8.71995034601355,,,,,Europe/Madrid,1
+5550,PA20218,Rúa de Oporto  28,Parada,42.2372139497938,-8.71644479434951,,,,,Europe/Madrid,1
+3759,P0014136,Avda. de Galicia  18,Parada,42.2504843716462,-8.69487880359165,,,,,Europe/Madrid,1
+2951,P001680,Avda. de Galicia (Parque Cruce Balbarda),Parada,42.2513274705653,-8.69260735009203,,,,,Europe/Madrid,1
+2944,P001610,Avda. de Galicia  146,Parada,42.2513761981728,-8.68920404008657,,,,,Europe/Madrid,1
+3757,P0014134,Avda. de Galicia  182,Parada,42.2532087926865,-8.68699559131289,,,,,Europe/Madrid,1
+2947,P001640,Avda. de Galicia  200,Parada,42.2549500831665,-8.68486274759951,,,,,Europe/Madrid,1
+2948,P001650,Avda. de Galicia  238,Parada,42.2569107152155,-8.68201353004727,,,,,Europe/Madrid,1
+2949,P001660,Avda. de Galicia  280,Parada,42.2592179589285,-8.67966650317712,,,,,Europe/Madrid,1
+2962,P001790,Avda. de Vigo  261 (Cuatro Puentes),Parada,42.2616210886788,-8.67720727903583,,,,,Europe/Madrid,1
+2959,P001760,Avda. de Vigo  201,Parada,42.2640896596421,-8.67408223891235,,,,,Europe/Madrid,1
+2958,P001750,Avda. de Vigo  161,Parada,42.266305918576,-8.67281891846633,,,,,Europe/Madrid,1
+2956,P001730,Avda. de Vigo  129,Parada,42.2678337977233,-8.67134573889351,,,,,Europe/Madrid,1
+2955,P001720,Avda. de Vigo  95,Parada,42.2704809883139,-8.66772637385409,,,,,Europe/Madrid,1
+2965,P001820,Avda. de Vigo  49,Parada,42.2718783944482,-8.66635630401743,,,,,Europe/Madrid,1
+2966,P001830,Avda. de Vigo  11,Parada,42.2740385009485,-8.66694993166453,,,,,Europe/Madrid,1
+2992,P002090,Avda. de Redondela  32,Parada,42.272074280929,-8.66459369074207,,,,,Europe/Madrid,1
+2996,P002130,Avda. de Redondela (Instituto),Parada,42.2667588112137,-8.66724782836633,,,,,Europe/Madrid,1
+2994,P002110,Avda. de Redondela  70  ,Parada,42.2632866876952,-8.66898503581677,,,,,Europe/Madrid,1
+2989,P002060,Avda. de Redondela  122,Parada,42.259945557531,-8.67260843372469,,,,,Europe/Madrid,1
+2800,P00195,Rúa de Ángel de Lema  247,Parada,42.2566247075499,-8.67749079725553,,,,,Europe/Madrid,1
+2806,P00250,Rúa de Ángel de Lema  221,Parada,42.2552520852508,-8.67948066204136,,,,,Europe/Madrid,1
+2803,P00220,Rúa de Ángel de Lema  163,Parada,42.2526943626447,-8.68302902983666,,,,,Europe/Madrid,1
+2807,P00260,Rúa de Ángel de Lema  91 ,Parada,42.2504212162354,-8.6854647160186,,,,,Europe/Madrid,1
+4126,P0020054,Rúa de Ángel de Lema  33,Parada,42.2488973769537,-8.68915071368382,,,,,Europe/Madrid,1
+2805,P00240,Rúa de Ángel de Lema  19,Parada,42.2475134763365,-8.6918743014715,,,,,Europe/Madrid,1
+3453,P006570,Rúa de Pizarro  65,Parada,42.2313577551742,-8.71296778017825,,,,,Europe/Madrid,1
+3454,P006580,Rúa de Pizarro  7,Parada,42.2298604867039,-8.71797913652699,,,,,Europe/Madrid,1
+3359,P005680,Avda. da Gran Vía  66,Parada,42.2281738024212,-8.7202676230248,,,,,Europe/Madrid,1
+3361,P005700,Avda. da Gran Vía  104,Parada,42.2253258840813,-8.72210662444018,,,,,Europe/Madrid,1
+4017,P0014398,Avda. da Gran Vía  116,Parada,42.2240659396603,-8.72369103611751,,,,,Europe/Madrid,1
+3353,P005620,Avda. da Gran Vía  148,Parada,42.2223216071105,-8.72644042114933,,,,,Europe/Madrid,1
+3355,P005640,Avda. da Gran Vía  176,Parada,42.2208680325823,-8.73026444727674,,,,,Europe/Madrid,1
+2908,P001250,Avda. de Castelao  16,Parada,42.2197303958276,-8.73745651322051,,,,,Europe/Madrid,1
+4149,P0020077,Avda. de Castelao  40,Parada,42.2192597269198,-8.73980943466788,,,,,Europe/Madrid,1
+2910,P001270,Avda. de Castelao  50,Parada,42.2187049369325,-8.74254445956501,,,,,Europe/Madrid,1
+2912,P001290,Avda. de Castelao  54,Parada,42.2181582630684,-8.74579772686073,,,,,Europe/Madrid,1
+4099,P0020027,Avda. de Castelao  64,Parada,42.2176919825542,-8.74958587742631,,,,,Europe/Madrid,1
+2913,P001300,Avda. de Castelao  68,Parada,42.2174663776024,-8.75124549882902,,,,,Europe/Madrid,1
+3463,P006640,Rúa do Porriño (fronte Instituto),Parada,42.2155061751009,-8.75318656895485,,,,,Europe/Madrid,1
+3748,P0014125,Rúa do Porriño (fronte 9),Parada,42.2138696511769,-8.75199078860939,,,,,Europe/Madrid,1
+2915,P001320,Avda. de Castelao  87,Parada,42.2173022236201,-8.75110475205119,,,,,Europe/Madrid,1
+2914,P001310,Avda. de Castelao  73,Parada,42.2177055282635,-8.74775332453754,,,,,Europe/Madrid,1
+4147,P0020075,Avda. de Castelao  65,Parada,42.2180112150867,-8.74536972838951,,,,,Europe/Madrid,1
+2911,P001280,Avda. de Castelao  41,Parada,42.218523314599,-8.7422346500889,,,,,Europe/Madrid,1
+4148,P0020076,Avda. de Castelao  25,Parada,42.2190167900516,-8.73991914680349,,,,,Europe/Madrid,1
+4058,P0014901,Avda. de Castelao  1,Parada,42.2202110030046,-8.73418302261462,,,,,Europe/Madrid,1
+3827,P0014206,Avda. da Gran Vía (Instituto),Parada,42.2205140426847,-8.73170021692383,,,,,Europe/Madrid,1
+3356,P005650,Avda. da Gran Vía  185,Parada,42.2209711363987,-8.72919624467147,,,,,Europe/Madrid,1
+3354,P005630,Avda. da Gran Vía  147,Parada,42.2227903564559,-8.72494007574485,,,,,Europe/Madrid,1
+3351,P005600,Avda. da Gran Vía  107,Parada,42.2251400587911,-8.7218481801109,,,,,Europe/Madrid,1
+3360,P005690,Avda. da Gran Vía  85,Parada,42.2268682656611,-8.72063743317165,,,,,Europe/Madrid,1
+3451,P006550,Rúa de Pizarro  10,Parada,42.2298864162117,-8.71746336499677,,,,,Europe/Madrid,1
+5473,PA20177,Rúa de Pizarro  16,Parada,42.2307678167943,-8.71510596430358,,,,,Europe/Madrid,1
+3452,P006560,Rúa de Pizarro  34,Parada,42.231138009714,-8.7116968235332,,,,,Europe/Madrid,1
+3673,P008610,Rúa da Travesía de Vigo  8,Parada,42.2320281879469,-8.70820377625741,,,,,Europe/Madrid,1
+3670,P008580,Rúa da Travesía de Vigo  32,Parada,42.2338280858528,-8.70631124156336,,,,,Europe/Madrid,1
+3674,P008620,Rúa da Travesía de Vigo  82,Parada,42.2362617917916,-8.70399497874176,,,,,Europe/Madrid,1
+3663,P008510,Rúa da Travesía de Vigo  124,Parada,42.2384131448621,-8.70356320230772,,,,,Europe/Madrid,1
+3665,P008530,Rúa da Travesía de Vigo  158,Parada,42.241101221945,-8.70197403163385,,,,,Europe/Madrid,1
+3749,P0014126,Rúa da Travesía de Vigo  194,Parada,42.2424944251284,-8.69924903838145,,,,,Europe/Madrid,1
+3661,P008490,Rúa da Travesía de Vigo  202,Parada,42.2443664407201,-8.69545207452157,,,,,Europe/Madrid,1
+3667,P008550,Rúa da Travesía de Vigo  220,Parada,42.2464255684018,-8.69295062449372,,,,,Europe/Madrid,1
+2804,P00230,Rúa de Ángel de Lema  14,Parada,42.2480416012551,-8.69102447460713,,,,,Europe/Madrid,1
+4125,P0020053,Rúa de Ángel de Lema (cruce Paraixal),Parada,42.248962857677,-8.68827230335543,,,,,Europe/Madrid,1
+2799,P00190,Rúa de Ángel de Lema  58,Parada,42.2505395372833,-8.68517936299833,,,,,Europe/Madrid,1
+2801,P00200,Rúa de Ángel de Lema  100,Parada,42.252115803441,-8.68337437322992,,,,,Europe/Madrid,1
+2802,P00210,Rúa de Ángel de Lema  140,Parada,42.2557987478358,-8.67850752629889,,,,,Europe/Madrid,1
+2990,P002070,Avda. de Redondela  109,Parada,42.2594813934451,-8.67292486961927,,,,,Europe/Madrid,1
+2993,P002100,Avda. de Redondela  47,Parada,42.2631860012411,-8.66893909437005,,,,,Europe/Madrid,1
+2991,P002080,Avda. de Redondela  19,Parada,42.266569716837,-8.66716076845676,,,,,Europe/Madrid,1
+3293,P005030,Avda. de Redondela (fronte 28),Parada,42.2725025278132,-8.66478725235038,,,,,Europe/Madrid,1
+2954,P001710,Avda. de Vigo  6,Parada,42.2744508233931,-8.66713823323241,,,,,Europe/Madrid,1
+2967,P001840,Avda. de Vigo  72,Parada,42.2715943604922,-8.66638973508921,,,,,Europe/Madrid,1
+2957,P001740,Avda. de Vigo  120,Parada,42.2706874299101,-8.66805784159206,,,,,Europe/Madrid,1
+2960,P001770,Avda. de Vigo (Alameda de Rosalía de Castro),Parada,42.2678589599475,-8.67144026303268,,,,,Europe/Madrid,1
+2961,P001780,Avda. de Vigo  230,Parada,42.2662452909503,-8.67296575392848,,,,,Europe/Madrid,1
+2963,P001800,Avda. de Vigo  266,Parada,42.2639952340152,-8.67422450339939,,,,,Europe/Madrid,1
+2964,P001810,Avda. de Vigo  320,Parada,42.2620684984677,-8.67673619309491,,,,,Europe/Madrid,1
+5001,PA20132,Avda. de Galicia  341,Parada,42.2604731869724,-8.67881465987074,,,,,Europe/Madrid,1
+2950,P001670,Avda. de Galicia  285,Parada,42.2583659665633,-8.68050899669103,,,,,Europe/Madrid,1
+2942,P001590,Avda. de Galicia (Parque Riouxa),Parada,42.2566679054837,-8.68257538562057,,,,,Europe/Madrid,1
+2946,P001630,Avda. de Galicia  165,Parada,42.2551776739053,-8.68473448166907,,,,,Europe/Madrid,1
+2945,P001620,Avda. de Galicia  139,Parada,42.2539871647681,-8.68619661607181,,,,,Europe/Madrid,1
+2943,P001600,Avda. de Galicia  103,Parada,42.2513892085394,-8.6893698325417,,,,,Europe/Madrid,1
+2952,P001690,Avda. de Galicia  71,Parada,42.2514209091634,-8.69215321605014,,,,,Europe/Madrid,1
+3756,P0014133,Avda. de Galicia  37  ,Parada,42.2509775753126,-8.6944718808258,,,,,Europe/Madrid,1
+3614,P008040,Rúa de Sanjurjo Badía  167,Parada,42.2487402401932,-8.69754620935206,,,,,Europe/Madrid,1
+3612,P008020,Rúa de Sanjurjo Badía  123,Parada,42.2469416641763,-8.70037637818206,,,,,Europe/Madrid,1
+3616,P008060,Rúa de Sanjurjo Badía  79,Parada,42.244926864425,-8.70364239349382,,,,,Europe/Madrid,1
+3339,P005490,Avda. de García Barbón (fronte 120),Parada,42.2415575554167,-8.70709486121012,,,,,Europe/Madrid,1
+4016,P0014397,Avda. de García Barbón (fronte 104),Parada,42.2397371303511,-8.70839768157919,,,,,Europe/Madrid,1
+3341,P005510,Avda. de García Barbón  127,Parada,42.2382903576378,-8.71014103032624,,,,,Europe/Madrid,1
+3348,P005570,Avda. de García Barbón  87,Parada,42.2370033967079,-8.71358699368517,,,,,Europe/Madrid,1
+3866,P0014245,Avda. de García Barbón  43,Parada,42.2369172803121,-8.71674314277311,,,,,Europe/Madrid,1
+3499,P006980,Praza Eugenio Fadrique  6,Parada,42.2244712355465,-8.73619634979357,,,,,Europe/Madrid,1
+3645,P008330,Rúa de Tomás A. Alonso  86,Parada,42.2238976080628,-8.74042472075197,,,,,Europe/Madrid,1
+3785,P0014164,Rúa de Tomás A. Alonso  136,Parada,42.2251724366512,-8.74477735396414,,,,,Europe/Madrid,1
+4807,PA20100,Rúa de Camilo Veiga  6,Parada,42.2231957626723,-8.74965070225995,,,,,Europe/Madrid,1
+4806,PA20099,Rúa de Camilo Veiga  48,Parada,42.2223906736559,-8.75250735559615,,,,,Europe/Madrid,1
+3754,P0014131,Rúa de Tomás Paredes  4,Parada,42.2219487683937,-8.75317121061463,,,,,Europe/Madrid,1
+3656,P008440,Rúa de Tomás Paredes  86,Parada,42.2201925777624,-8.75416458670629,,,,,Europe/Madrid,1
+3654,P008420,Rúa de Tomás Paredes  114,Parada,42.2180312645948,-8.75425899463544,,,,,Europe/Madrid,1
+3541,P007410,Rúa de Eduardo Cabello (Igrexa),Parada,42.2263666394475,-8.75292821594516,,,,,Europe/Madrid,1
+3441,P006450,Praza de Suárez Llanos,Parada,42.2243060647639,-8.75309078328407,,,,,Europe/Madrid,1
+3649,P008370,Rúa de Tomás A. Alonso  220,Parada,42.2239842076738,-8.75132654605397,,,,,Europe/Madrid,1
+3442,P006460,Rúa dos Pescadores  10,Parada,42.2248535786451,-8.75260854186786,,,,,Europe/Madrid,1
+3747,P0014124,Rúa de Eduardo Cabello (fronte Igrexa),Parada,42.2265694988583,-8.75277394642248,,,,,Europe/Madrid,1
+3344,P005530,Avda. de García Barbón  18,Parada,42.2372045604596,-8.71868073599586,,,,,Europe/Madrid,1
+4856,PA20113,Praza de América  3 (Dirección Hospital) ,Parada,42.2208765659118,-8.73336764352841,,,,,Europe/Madrid,1
+2919,P001360,Avda. de Castrelos  16,Parada,42.2196132165648,-8.73262919421208,,,,,Europe/Madrid,1
+2933,P001500,Avda. de Castrelos  58,Parada,42.2170848212819,-8.73253089338095,,,,,Europe/Madrid,1
+4085,P0020013,Avda. de Castrelos  116,Parada,42.2159059171576,-8.73247110180026,,,,,Europe/Madrid,1
+2922,P001390,Avda. de Castrelos  186,Parada,42.2127355564963,-8.73231418227655,,,,,Europe/Madrid,1
+2923,P001400,Avda. de Castrelos  202,Parada,42.2107066826796,-8.73223737165601,,,,,Europe/Madrid,1
+4960,PA20124,Estrada Clara Campoamor  6,Parada,42.2089894684695,-8.72933061921438,,,,,Europe/Madrid,1
+5448,PA20172,Estrada Clara Campoamor (cruce Camiño da Nogueira),Parada,42.2037363356275,-8.72661786854127,,,,,Europe/Madrid,1
+4963,PA20127,Estrada Clara Campoamor (fronte Rotonda HAC),Parada,42.1900753800644,-8.71812504466544,,,,,Europe/Madrid,1
+4852,PA20111,H. A. Cunqueiro (Hospital de Día),Parada,42.1875858379667,-8.71627891884381,,,,,Europe/Madrid,1
+4813,PA20102,H. A. Cunqueiro (Porta Principal),Parada,42.1910340023183,-8.71430311641677,,,,,Europe/Madrid,1
+4084,P0020012,Avda. de Castrelos  33,Parada,42.2158880320136,-8.73233162693148,,,,,Europe/Madrid,1
+2924,P001410,Avda. de Castrelos  13,Parada,42.2180601613063,-8.73245042711051,,,,,Europe/Madrid,1
+2916,P001330,Avda. de Castrelos (Pavillón),Parada,42.2195539469864,-8.73250943570883,,,,,Europe/Madrid,1
+3697,P008840,Rúa de Urzáiz  60 - Est. Intermodal - C.C.,Parada,42.2339862826965,-8.71541048014569,,,,,Europe/Madrid,1
+3501,P007000,Praza de Fernando O Católico,Parada,42.2324273172627,-8.71137107336926,,,,,Europe/Madrid,1
+3372,P005810,Rúa de Jenaro de la Fuente  10,Parada,42.2322585141846,-8.70577062094617,,,,,Europe/Madrid,1
+3373,P005820,Rúa de Jenaro de la Fuente  22,Parada,42.2320420427629,-8.70361680710722,,,,,Europe/Madrid,1
+2854,P00710,Rúa de Aragón (Instituto),Parada,42.2324789583539,-8.70198870623517,,,,,Europe/Madrid,1
+2874,P00910,Avda. do Aeroporto  54,Parada,42.2346799188015,-8.69962399382007,,,,,Europe/Madrid,1
+3729,P0014106,Avda. do Aeroporto  92,Parada,42.2341615819085,-8.69507456390335,,,,,Europe/Madrid,1
+2856,P00730,Avda. do Aeroporto  130,Parada,42.2311091616718,-8.69050139753296,,,,,Europe/Madrid,1
+2858,P00750,Avda. do Aeroporto  184,Parada,42.2331039855608,-8.68716282954421,,,,,Europe/Madrid,1
+2859,P00760,Avda. do Aeroporto  240,Parada,42.2367756107162,-8.68373656591316,,,,,Europe/Madrid,1
+2861,P00780,Avda. do Aeroporto  298,Parada,42.2385542880175,-8.6806634315497,,,,,Europe/Madrid,1
+2863,P00800,Avda. do Aeroporto  328,Parada,42.2378016740458,-8.67652478303972,,,,,Europe/Madrid,1
+2864,P00810,Avda. do Aeroporto  350,Parada,42.2355212613436,-8.67465520958689,,,,,Europe/Madrid,1
+2866,P00830,Avda. do Aeroporto  378,Parada,42.2346732886166,-8.67134804587153,,,,,Europe/Madrid,1
+2869,P00860,Avda. do Aeroporto  446,Parada,42.2356126669196,-8.66652920693804,,,,,Europe/Madrid,1
+2871,P00880,Avda. do Aeroporto  484,Parada,42.2354405095671,-8.66235493922176,,,,,Europe/Madrid,1
+3872,P0014251,Avda. do Aeroporto (fronte 463),Parada,42.2348176019266,-8.65882026963902,,,,,Europe/Madrid,1
+2876,P00930,Avda. do Aeroporto  570,Parada,42.2319790357412,-8.6537249602803,,,,,Europe/Madrid,1
+2878,P00950,Avda. do Aeroporto  614,Parada,42.233626818163,-8.64781116263694,,,,,Europe/Madrid,1
+2852,P00690,Avda. do Aeroporto  656,Parada,42.2330640926106,-8.64274293477487,,,,,Europe/Madrid,1
+2879,P00960,Avda. do Aeroporto  686,Parada,42.2309188879171,-8.63853289258483,,,,,Europe/Madrid,1
+2853,P00700,Avda. do Aeroporto (Colexio),Parada,42.2286740471825,-8.63334030922522,,,,,Europe/Madrid,1
+3440,P006440,Camiño do Pino Manso  6,Parada,42.2229512083876,-8.63505158099312,,,,,Europe/Madrid,1
+3849,P0014228,Avda. de Peinador  100,Parada,42.2216963420485,-8.63284099701986,,,,,Europe/Madrid,1
+2789,P0090,Aeroporto de Peinador,Parada,42.2259569181747,-8.63286468970108,,,,,Europe/Madrid,1
+2851,P00680,Avda. do Aeroporto (Aeroclub),Parada,42.2290057234834,-8.63435686644186,,,,,Europe/Madrid,1
+2877,P00940,Avda. do Aeroporto  605,Parada,42.2304938776707,-8.638023272872,,,,,Europe/Madrid,1
+2875,P00920,Avda. do Aeroporto (cruce Camiño das Cereixeiras),Parada,42.2334990692993,-8.64332521352017,,,,,Europe/Madrid,1
+2873,P00900,Avda. do Aeroporto  531,Parada,42.2335279983638,-8.64823761594067,,,,,Europe/Madrid,1
+2872,P00890,Avda. do Aeroporto  491,Parada,42.2320664191027,-8.65384297747696,,,,,Europe/Madrid,1
+3871,P0014250,Avda. do Aeroporto  463,Parada,42.2349148142526,-8.65898341133044,,,,,Europe/Madrid,1
+2870,P00870,Avda. do Aeroporto  447,Parada,42.2354305801766,-8.66197942995967,,,,,Europe/Madrid,1
+2868,P00850,Avda. do Aeroporto  423,Parada,42.2363017604443,-8.66579159945894,,,,,Europe/Madrid,1
+2865,P00820,Avda. do Aeroporto  377,Parada,42.2347666259456,-8.67130513052729,,,,,Europe/Madrid,1
+2862,P00790,Avda. do Aeroporto  325,Parada,42.2374268109823,-8.67547447641982,,,,,Europe/Madrid,1
+2860,P00770,Avda. do Aeroporto  273,Parada,42.2389395281541,-8.68142249670092,,,,,Europe/Madrid,1
+2855,P00720,Avda. do Aeroporto  215,Parada,42.2357390158911,-8.68425423225304,,,,,Europe/Madrid,1
+2857,P00740,Avda. do Aeroporto  181,Parada,42.2335607536968,-8.68693752398696,,,,,Europe/Madrid,1
+2880,P00970,Avda. do Aeroporto  91,Parada,42.2327873184787,-8.69347328512146,,,,,Europe/Madrid,1
+5552,PA20219,Avda. do Aeroporto (fronte 90),Parada,42.2348306987049,-8.69544351485419,,,,,Europe/Madrid,1
+2867,P00840,Avda. do Aeroporto  43,Parada,42.2349043253149,-8.69924580234897,,,,,Europe/Madrid,1
+3371,P005800,Rúa de Jenaro de la Fuente  29,Parada,42.2322022750622,-8.70379224637247,,,,,Europe/Madrid,1
+3374,P005830,Rúa de Jenaro de la Fuente  11,Parada,42.2323869903522,-8.70561078408457,,,,,Europe/Madrid,1
+2894,P001110,Praza Ribeira do Berbés ,Parada,42.237821272535,-8.72966637862717,,,,,Europe/Madrid,1
+2819,P00380,Rúa de Aragón  221,Parada,42.2420913761474,-8.69866813147473,,,,,Europe/Madrid,1
+2817,P00360,Rúa de Aragón  193,Parada,42.2401318396137,-8.70094703301734,,,,,Europe/Madrid,1
+2823,P00420,Rúa de Aragón  147,Parada,42.2380924852771,-8.7011562453205,,,,,Europe/Madrid,1
+2821,P00400,Rúa de Aragón  91,Parada,42.2355981947794,-8.70142653802134,,,,,Europe/Madrid,1
+4124,P0020052,Rúa de Aragón  21,Parada,42.2327484139652,-8.70253965476252,,,,,Europe/Madrid,1
+5507,PA20192,Rúa de Colón  26,Parada,42.2371685111949,-8.72037376722108,,,,,Europe/Madrid,1
+3703,P008900,Rúa de Venezuela  45,Parada,42.2322433830246,-8.71852415836236,,,,,Europe/Madrid,1
+3702,P008890,Rúa de Venezuela  21,Parada,42.2332835029753,-8.72137895931229,,,,,Europe/Madrid,1
+3497,P006960,Avda. das Camelias s/n ( Praza do Rei),Parada,42.235056274709,-8.72675751435639,,,,,Europe/Madrid,1
+4151,P0020079,Avda. das Camelias  8,Parada,42.2334129399705,-8.72904515586103,,,,,Europe/Madrid,1
+3065,P002800,Avda. das Camelias  46,Parada,42.2302919587182,-8.73027925479295,,,,,Europe/Madrid,1
+3066,P002810,Avda. das Camelias  80,Parada,42.2276018388396,-8.73023633944871,,,,,Europe/Madrid,1
+3787,P0014166,Avda. das Camelias  114,Parada,42.2251429808002,-8.72970794427278,,,,,Europe/Madrid,1
+3488,P006880,Praza do Cristo da Vitoria,Parada,42.2155762780381,-8.74888559913504,,,,,Europe/Madrid,1
+3789,P0014168,Avda. das Camelias  113,Parada,42.2249282850829,-8.72963150919293,,,,,Europe/Madrid,1
+3067,P002820,Avda. das Camelias (Praza 8 de Marzo),Parada,42.2274039585684,-8.72994858448342,,,,,Europe/Madrid,1
+3064,P002790,Avda. das Camelias  37,Parada,42.2305664259259,-8.73008680351393,,,,,Europe/Madrid,1
+4150,P0020078,Avda. das Camelias  3,Parada,42.2333413290503,-8.72896721896647,,,,,Europe/Madrid,1
+5499,PA20190,Avda. das Camelias (fronte Praza do Rei),Parada,42.2349060125546,-8.72662052005364,,,,,Europe/Madrid,1
+2820,P00390,Rúa de Aragón  26,Parada,42.2331740458066,-8.70238030875134,,,,,Europe/Madrid,1
+2822,P00410,Rúa de Aragón  82,Parada,42.2355243871014,-8.70124841654706,,,,,Europe/Madrid,1
+2815,P00340,Rúa de Aragón  116,Parada,42.2380364941188,-8.70092118704724,,,,,Europe/Madrid,1
+2816,P00350,Rúa de Aragón  162,Parada,42.2404889150919,-8.70035792315412,,,,,Europe/Madrid,1
+2818,P00370,Rúa de Aragón  212,Parada,42.2421013044898,-8.69839454615521,,,,,Europe/Madrid,1
+3415,P006210,Avda. de E. Martínez Garrido  16,Parada,42.2292595292766,-8.69996448523904,,,,,Europe/Madrid,1
+3763,P0014140,Avda. de E. Martínez Garrido  30,Parada,42.2282108773925,-8.69999935395623,,,,,Europe/Madrid,1
+3419,P006250,Avda. de E. Martínez Garrido  80,Parada,42.2266746304953,-8.70258142341291,,,,,Europe/Madrid,1
+5372,PA20136,Avda. de E. Martínez Garrido  98,Parada,42.225764698883,-8.704499864388,,,,,Europe/Madrid,1
+3801,P0014180,Avda. de E. Martínez Garrido  108,Parada,42.224749196923,-8.7073205845888,,,,,Europe/Madrid,1
+3366,P005750,Avda. do Alcalde Gregorio Espino  79,Parada,42.2257854850364,-8.70878610481859,,,,,Europe/Madrid,1
+3365,P005740,Avda. do Alcalde Gregorio Espino  57,Parada,42.2278317862417,-8.70785540740354,,,,,Europe/Madrid,1
+3363,P005720,Avda. do Alcalde Gregorio Espino  33,Parada,42.2301345036251,-8.70699265630455,,,,,Europe/Madrid,1
+3745,P0014122,Avda. do Alcalde Gregorio Espino  9,Parada,42.2315840973352,-8.7069685208686,,,,,Europe/Madrid,1
+4862,PA20116,Estrada da Coutada-Beade  2 ,Parada,42.192037327398,-8.70573732007463,,,,,Europe/Madrid,1
+3183,P003930,Estrada da Coutada  12,Parada,42.1928783097583,-8.70350620179084,,,,,Europe/Madrid,1
+3736,P0014113,Estrada da Coutada  20,Parada,42.1934585773954,-8.70206585554985,,,,,Europe/Madrid,1
+3178,P003880,Estrada da Coutada  44,Parada,42.1948297345221,-8.69904032378105,,,,,Europe/Madrid,1
+3181,P003910,Estrada da Coutada  68,Parada,42.1954040219613,-8.69579485087303,,,,,Europe/Madrid,1
+3161,P003710,Estrada de Bembrive  363,Parada,42.1938461092936,-8.69200488953499,,,,,Europe/Madrid,1
+3162,P003720,Estrada de Bembrive  341,Parada,42.1948986002,-8.6892137536234,,,,,Europe/Madrid,1
+3154,P003640,Estrada de Bembrive  315,Parada,42.1973594177938,-8.68811300425438,,,,,Europe/Madrid,1
+3163,P003730,Estrada de Bembrive  301,Parada,42.1992034036697,-8.68888011603264,,,,,Europe/Madrid,1
+4038,P0014419,Estrada de Bembrive (cruce Camiño dos Rapadouros),Parada,42.2011387342214,-8.688585073041,,,,,Europe/Madrid,1
+3153,P003630,Estrada de Bembrive  269,Parada,42.2027441804309,-8.684443742322,,,,,Europe/Madrid,1
+3734,P0014111,Estrada de Bembrive (Centro Saúde),Parada,42.2042626567452,-8.68480180143635,,,,,Europe/Madrid,1
+3151,P003610,Estrada de Bembrive  237,Parada,42.204446407255,-8.6880902098718,,,,,Europe/Madrid,1
+3149,P003590,Estrada de Bembrive  195,Parada,42.2044584315089,-8.69076589452659,,,,,Europe/Madrid,1
+3774,P0014153,Estrada de Bembrive  173,Parada,42.2053572326771,-8.69249573854563,,,,,Europe/Madrid,1
+3124,P003370,Estrada de Bembrive (cruce Rúa Eifonso),Parada,42.2056762263486,-8.69311204727711,,,,,Europe/Madrid,1
+3145,P003570,Estrada de Bembrive  109,Parada,42.2095769718331,-8.6955800708147,,,,,Europe/Madrid,1
+3159,P003690,Estrada de Bembrive  73,Parada,42.2109473453343,-8.69627481978162,,,,,Europe/Madrid,1
+3156,P003660,Estrada de Bembrive  39,Parada,42.2122276564657,-8.69702861363481,,,,,Europe/Madrid,1
+2791,P00110,Avda. do Alcalde Lavadores  171,Parada,42.2150745914227,-8.69673840470458,,,,,Europe/Madrid,1
+2790,P00100,Avda. do Alcalde Lavadores  125,Parada,42.2190089750395,-8.69606934984159,,,,,Europe/Madrid,1
+2796,P00160,Avda. do Alcalde Lavadores  67,Parada,42.2228302859445,-8.69723147588163,,,,,Europe/Madrid,1
+2794,P00140,Avda. do Alcalde Lavadores  29,Parada,42.2234449128062,-8.70080199566002,,,,,Europe/Madrid,1
+3094,P003070,Rúa da Ceboleira  49,Parada,42.2248163421881,-8.70156599755654,,,,,Europe/Madrid,1
+3762,P0014139,Avda. de E. Martínez Garrido  27,Parada,42.2274927575041,-8.7004133664519,,,,,Europe/Madrid,1
+3414,P006200,Avda. de E. Martínez Garrido  11,Parada,42.2292980430445,-8.69976024855677,,,,,Europe/Madrid,1
+2895,P001120,Avda. de Beiramar (fronte Casa do Mar),Parada,42.2341672902888,-8.73333109381488,,,,,Europe/Madrid,1
+2896,P001130,Avda. de Beiramar (Peiraos auxiliares),Parada,42.231238831053,-8.73525529738481,,,,,Europe/Madrid,1
+2899,P001160,Avda. de Beiramar (Sto. Domingo) ,Parada,42.225759662616,-8.74323974879053,,,,,Europe/Madrid,1
+2897,P001140,Avda. de Beiramar (Freire),Parada,42.2250684746819,-8.74774585993555,,,,,Europe/Madrid,1
+3037,P002540,Bouzas (Rotonda de Las Anclas),Parada,42.2251315295362,-8.7515970268206,,,,,Europe/Madrid,1
+3788,P0014167,Beiramar - Pescadores,Parada,42.2252790207346,-8.75190864832665,,,,,Europe/Madrid,1
+3949,P0014329,Citroën (Puerta Principal),Parada,42.210124372323,-8.7411399914858,,,,,Europe/Madrid,1
+3948,P0014328,Citroën - PSA,Parada,42.2089884154823,-8.74615189742948,,,,,Europe/Madrid,1
+3164,P003740,Rúa de Canido (Igrexa),Parada,42.1974318816736,-8.79014497136569,,,,,Europe/Madrid,1
+3171,P003810,Rúa de Canido  55,Parada,42.2001064861367,-8.7851211938808,,,,,Europe/Madrid,1
+3169,P003790,Rúa de Canido  15,Parada,42.2018986969825,-8.78170674180484,,,,,Europe/Madrid,1
+3982,P0014362,Avda. de Samil  101,Parada,42.2029378716127,-8.77683048581576,,,,,Europe/Madrid,1
+3002,P002190,Avda. de Samil  81,Parada,42.2051476455436,-8.77674534032269,,,,,Europe/Madrid,1
+3001,P002180,Avda. de Samil  67,Parada,42.2068098953929,-8.77620676623539,,,,,Europe/Madrid,1
+3000,P002170,Avda. de Samil  35,Parada,42.2101714164535,-8.7745850564452,,,,,Europe/Madrid,1
+2975,P001920,Avda. de Europa  101,Parada,42.2110664174843,-8.77295374340119,,,,,Europe/Madrid,1
+2973,P001900,Avda. de Europa (cruce Rúa do Bravo),Parada,42.2118551191094,-8.76675515836777,,,,,Europe/Madrid,1
+2972,P001890,Avda. de Europa  23,Parada,42.2159136721798,-8.75990479654374,,,,,Europe/Madrid,1
+2971,P001880,Avda. de Europa (cruce Rúa das Teixugueiras),Parada,42.2166879325094,-8.75679446574796,,,,,Europe/Madrid,1
+4011,P0014392,Rúa da Pedra Seixa (Colexio),Parada,42.2094585914866,-8.76056108336203,,,,,Europe/Madrid,1
+3752,P0014129,Camiño do Caramuxo  11,Parada,42.2072303895673,-8.75259235122675,,,,,Europe/Madrid,1
+3324,P005340,Avda. da Florida  197,Parada,42.2086211140791,-8.74957218387598,,,,,Europe/Madrid,1
+3784,P0014163,Avda. da Florida (fronte 82),Parada,42.2114422020582,-8.74622746923441,,,,,Europe/Madrid,1
+3322,P005320,Avda. da Florida  145,Parada,42.2132440581963,-8.74365791299815,,,,,Europe/Madrid,1
+3320,P005300,Avda. da Florida  117,Parada,42.2148273430422,-8.74131902673716,,,,,Europe/Madrid,1
+3327,P005370,Avda. da Florida  69,Parada,42.2169285265362,-8.73826803528868,,,,,Europe/Madrid,1
+3922,P0014301,Avda. da Florida  47,Parada,42.2182574586376,-8.73632879817092,,,,,Europe/Madrid,1
+3323,P005330,Avda. da Florida  3,Parada,42.220228435803,-8.73342629552144,,,,,Europe/Madrid,1
+2906,P001230,Avda. de Buenos Aires  49,Parada,42.2472519249101,-8.69312266186961,,,,,Europe/Madrid,1
+3750,P0014127,Avda. de Buenos Aires  13,Parada,42.2493068959733,-8.69517991618402,,,,,Europe/Madrid,1
+5415,PA20146,FORA DE SERVIZO G.B.,Parada,42.2375444055031,-8.71959057645111,,,,,Europe/Madrid,1
+4096,P0020024,Rúa das Teixugueiras  34,Parada,42.2076340662997,-8.75892086099375,,,,,Europe/Madrid,1
+4097,P0020025,Rúa das Teixugueiras  38,Parada,42.2065532679991,-8.76012249063243,,,,,Europe/Madrid,1
+4163,P0020091,Camiño da Miragaia  11-13,Parada,42.2381648028282,-8.71121276081965,,,,,Europe/Madrid,1
+4129,P0020057,Estación Ferrocarril Guixar,Parada,42.2388439111123,-8.71300850372944,,,,,Europe/Madrid,1
+4130,P0020058,Rúa do Canceleiro  6,Parada,42.2384354706342,-8.7144136865023,,,,,Europe/Madrid,1
+3079,P002930,Rúa de Cantabria  58,Parada,42.2353778082509,-8.69569533116768,,,,,Europe/Madrid,1
+3073,P002870,Rúa de Cantabria (Compañía Suministradora de Auga),Parada,42.2373974087322,-8.69416915423821,,,,,Europe/Madrid,1
+3074,P002880,Rúa de Cantabria  148,Parada,42.2393315816803,-8.69298361785363,,,,,Europe/Madrid,1
+3077,P002910,Rúa de Cantabria  212,Parada,42.2416559742421,-8.69282756093639,,,,,Europe/Madrid,1
+3473,P006740,Rúa da Vista do Mar  95,Parada,42.2429574792609,-8.69116776235055,,,,,Europe/Madrid,1
+4004,P0014385,Rúa da Vista do Mar  45,Parada,42.2407129120001,-8.6919418003281,,,,,Europe/Madrid,1
+4005,P0014386,Rúa da Vista do Mar (Embalse),Parada,42.2380202076146,-8.69154388396419,,,,,Europe/Madrid,1
+4006,P0014387,Rúa da Vista do Mar  1,Parada,42.23716704301,-8.69324379212807,,,,,Europe/Madrid,1
+3078,P002920,Rúa de Cantabria  45,Parada,42.23585208085,-8.69559241676828,,,,,Europe/Madrid,1
+3370,P005790,Hospital do Meixoeiro,Parada,42.2145340616802,-8.6847560526983,,,,,Europe/Madrid,1
+3186,P003960,Baixada do Castelo,Parada,42.2139849068243,-8.68216051061953,,,,,Europe/Madrid,1
+3187,P003970,Estrada Vella de Madrid  190,Parada,42.2158721232655,-8.67976529796923,,,,,Europe/Madrid,1
+2840,P00572,Estrada de Madrid  210,Parada,42.2140587967148,-8.67294695395893,,,,,Europe/Madrid,1
+3912,P0014291,Avda. da Ponte (Vigo Memorial),Parada,42.2099352186468,-8.67146454178828,,,,,Europe/Madrid,1
+5384,PA20141,Avda. da Ponte (fronte Vigo Memorial),Parada,42.2105789698702,-8.67117118854975,,,,,Europe/Madrid,1
+3350,P005590,Avda. da Ponte (Grupo S. Gorxal),Parada,42.2130574627114,-8.67047920268953,,,,,Europe/Madrid,1
+4014,P0014395,Estrada de Madrid  217,Parada,42.2156010367444,-8.67547766476774,,,,,Europe/Madrid,1
+3761,P0014138,Estrada de Madrid (Campo de Fútbol),Parada,42.216459200795,-8.67859170943404,,,,,Europe/Madrid,1
+3271,P004810,Estrada Vella de Madrid  177,Parada,42.2182757399803,-8.67958827217424,,,,,Europe/Madrid,1
+3925,P0014304,Estrada Vella de Madrid  145,Parada,42.2213139752328,-8.68194447070266,,,,,Europe/Madrid,1
+3269,P004790,Estrada Vella de Madrid  123,Parada,42.2204360167843,-8.68369058877136,,,,,Europe/Madrid,1
+4167,P0020095,Estrada Vella de Madrid  107A,Parada,42.2192124192597,-8.68583635598327,,,,,Europe/Madrid,1
+3273,P004830,Estrada Vella de Madrid  81,Parada,42.2187197933629,-8.69001255541946,,,,,Europe/Madrid,1
+3272,P004820,Estrada Vella de Madrid  31,Parada,42.2166876761927,-8.69391785174514,,,,,Europe/Madrid,1
+3923,P0014302,Estrada Vella de Madrid  7,Parada,42.2145420944682,-8.69643161886319,,,,,Europe/Madrid,1
+2976,P001930,Estrada de Madrid (fronte Seminario),Parada,42.2147488596641,-8.69897918015624,,,,,Europe/Madrid,1
+2984,P002010,Avda. de Madrid  195,Parada,42.2182132834802,-8.70316342621948,,,,,Europe/Madrid,1
+2983,P002000,Avda. de Madrid  133,Parada,42.2207280119195,-8.7061229195009,,,,,Europe/Madrid,1
+2980,P001970,Avda. de Madrid  57,Parada,42.2239657094587,-8.71006206780578,,,,,Europe/Madrid,1
+2987,P002040,Avda. de Madrid (trasera Colexio Hogar),Parada,42.2268357913124,-8.71582345276977,,,,,Europe/Madrid,1
+3495,P006950,Praza de España (cruce Rúa de Pizarro),Parada,42.2292804012916,-8.7191235491,,,,,Europe/Madrid,1
+5522,PA20203,Avda. da Gran Vía  47,Parada,42.2308810624013,-8.71839757656264,,,,,Europe/Madrid,1
+4069,PA15001,Rúa Regueiro do Forno (Vial C) Centro de Servicios,Parada,42.1760367040038,-8.70948098593809,,,,,Europe/Madrid,1
+3628,P008180,Estrada da Garrida  291,Parada,42.1739933362615,-8.7032968396708,,,,,Europe/Madrid,1
+3830,P0014209,Estrada da Garrida  263,Parada,42.1733338216105,-8.7054398027808,,,,,Europe/Madrid,1
+3200,P004100,Estrada da Garrida  199,Parada,42.1697860196421,-8.70896728747906,,,,,Europe/Madrid,1
+3724,P0014101,Estrada da Garrida  165,Parada,42.1680085388537,-8.71041543805836,,,,,Europe/Madrid,1
+3204,P004140,Estrada da Garrida (frente 80),Parada,42.1662089443852,-8.7119925176338,,,,,Europe/Madrid,1
+3203,P004130,Estrada da Garrida  83,Parada,42.1656119302312,-8.71458900373835,,,,,Europe/Madrid,1
+3929,P0014308,Camiño do Pinal  6,Parada,42.1632855804175,-8.71670766192975,,,,,Europe/Madrid,1
+3930,P0014309,Camiño do Pinal  28,Parada,42.1610670288294,-8.71646862836604,,,,,Europe/Madrid,1
+3931,P0014310,Camiño do Pinal (fronte 57),Parada,42.1595641365219,-8.71829555914471,,,,,Europe/Madrid,1
+5434,PA20159,Estrada de Valadares  571,Parada,42.1603480444448,-8.71870635520837,,,,,Europe/Madrid,1
+3932,P0014311,Estrada de Valadares  505,Parada,42.1627203369102,-8.71890090750847,,,,,Europe/Madrid,1
+2798,P00180,Estrada de Valadares  451,Parada,42.1661449863357,-8.72016237138286,,,,,Europe/Madrid,1
+3367,P005760,Estrada de Valadares  377,Parada,42.1692954903376,-8.72324968654689,,,,,Europe/Madrid,1
+3252,P004620,Estrada de Valadares  329,Parada,42.1723301505358,-8.72376636744991,,,,,Europe/Madrid,1
+3246,P004560,Estrada de Valadares  233,Parada,42.1770177917032,-8.72151983182934,,,,,Europe/Madrid,1
+3249,P004590,Estrada de Valadares  173,Parada,42.1806708460899,-8.72153350629691,,,,,Europe/Madrid,1
+3256,P004660,Estrada de Valadares  99,Parada,42.1839978011969,-8.72385721396378,,,,,Europe/Madrid,1
+3254,P004640,Estrada de Valadares (cruce Camiño do Canizo),Parada,42.1865993202815,-8.71961991304761,,,,,Europe/Madrid,1
+3034,P002510,Avda. de Castrelos  439,Parada,42.1913238031489,-8.72104988710115,,,,,Europe/Madrid,1
+2930,P001470,Avda. de Castrelos  399,Parada,42.1949966781451,-8.72097155035289,,,,,Europe/Madrid,1
+2927,P001440,Avda. de Castrelos  339,Parada,42.1984801354749,-8.72382764897222,,,,,Europe/Madrid,1
+2925,P001420,Avda. de Castrelos  297,Parada,42.2014400994579,-8.7264097624296,,,,,Europe/Madrid,1
+2921,P001380,Avda. de Castrelos  179,Parada,42.2053356798209,-8.73007862148688,,,,,Europe/Madrid,1
+2918,P001350,Avda. de Castrelos  121,Parada,42.2080264876969,-8.73120979991515,,,,,Europe/Madrid,1
+2932,P001490,Avda. de Castrelos  67,Parada,42.210613293876,-8.732057663652,,,,,Europe/Madrid,1
+4051,P0014894,Avda. do Alcalde Portanet  8,Parada,42.2117369335896,-8.73333750543998,,,,,Europe/Madrid,1
+2849,P00660,Avda. do Alcalde Portanet  34,Parada,42.2114945655438,-8.73602239666388,,,,,Europe/Madrid,1
+3330,P005400,Avda. do Fragoso  95,Parada,42.213518168342,-8.73771978451751,,,,,Europe/Madrid,1
+3336,P005460,Avda. do Fragoso  71,Parada,42.2153010016985,-8.73612343436406,,,,,Europe/Madrid,1
+3334,P005440,Avda. do Fragoso  47,Parada,42.2172885078177,-8.73454375045543,,,,,Europe/Madrid,1
+4830,PA20103,Avda. do Fragoso  21,Parada,42.2189468987921,-8.73367029291506,,,,,Europe/Madrid,1
+3332,P005420,Avda. do Fragoso  3,Parada,42.220297405617,-8.73292498058368,,,,,Europe/Madrid,1
+3881,P0014260,Avda. da Gran Vía (fronte Avda. de Madrid),Parada,42.2287410572876,-8.71961913974602,,,,,Europe/Madrid,1
+3130,P003420,Avda. de Castrelos (Cemiterio de Pereiró),Parada,42.2080714947175,-8.73136608181403,,,,,Europe/Madrid,1
+2926,P001430,Avda. de Castrelos  318,Parada,42.2034084084447,-8.72881798324988,,,,,Europe/Madrid,1
+2928,P001450,Avda. de Castrelos  366,Parada,42.2010446945999,-8.72611203722894,,,,,Europe/Madrid,1
+2929,P001460,Avda. de Castrelos  396,Parada,42.198867604505,-8.72460548958654,,,,,Europe/Madrid,1
+3089,P003030,Avda. de Castrelos  458,Parada,42.1947025792468,-8.72102519453318,,,,,Europe/Madrid,1
+5451,PA20173,Avda. de Castrelos  502,Parada,42.1925040561032,-8.72121512142689,,,,,Europe/Madrid,1
+2931,P001480,Avda. de Castrelos  526,Parada,42.1901572702055,-8.72109012023637,,,,,Europe/Madrid,1
+3255,P004650,Estrada de Valadares  48,Parada,42.1866410559639,-8.7198532652319,,,,,Europe/Madrid,1
+3247,P004570,Estrada de Valadares  100,Parada,42.1839878637167,-8.72415493916444,,,,,Europe/Madrid,1
+3248,P004580,Estrada de Valadares  146,Parada,42.1802494733858,-8.72185000696066,,,,,Europe/Madrid,1
+3250,P004600,Estrada de Valadares  212,Parada,42.1764194871374,-8.72197848957089,,,,,Europe/Madrid,1
+3251,P004610,Estrada de Valadares  262,Parada,42.1724812280224,-8.72390584231869,,,,,Europe/Madrid,1
+3368,P005770,Estrada de Valadares  310,Parada,42.169110609973,-8.72390414554653,,,,,Europe/Madrid,1
+3253,P004630,Estrada de Valadares  406,Parada,42.165721528775,-8.72014627812877,,,,,Europe/Madrid,1
+3829,P0014208,Estrada de Valadares  452,Parada,42.1622372067044,-8.71885530995522,,,,,Europe/Madrid,1
+5435,PA20160,Estrada de Valadares  522,Parada,42.1600667955827,-8.71893823853659,,,,,Europe/Madrid,1
+3840,P0014219,Camiño do Pinal  59,Parada,42.1595005120482,-8.71824727938244,,,,,Europe/Madrid,1
+3828,P0014207,Camiño do Pinal  19,Parada,42.1612121621703,-8.71637743325954,,,,,Europe/Madrid,1
+3843,P0014222,Camiño do Pinal  5,Parada,42.1629595245719,-8.71654136497082,,,,,Europe/Madrid,1
+3196,P004060,Estrada da Gándara  7,Parada,42.1643260878025,-8.71689261937888,,,,,Europe/Madrid,1
+3201,P004110,Estrada da Garrida  40,Parada,42.1653316112095,-8.71486258905787,,,,,Europe/Madrid,1
+3202,P004120,Estrada da Garrida  84,Parada,42.1663997126736,-8.71123768398326,,,,,Europe/Madrid,1
+3725,P0014102,Estrada da Garrida  108,Parada,42.1682828821535,-8.71006675088643,,,,,Europe/Madrid,1
+3199,P004090,Estrada da Garrida  124,Parada,42.1703696213304,-8.70850612250007,,,,,Europe/Madrid,1
+3831,P0014210,Estrada da Garrida (frente 243),Parada,42.1730773941549,-8.70565974392002,,,,,Europe/Madrid,1
+4032,P0014413,Estrada da Garrida (cruce Camiño Fabas),Parada,42.1739555678535,-8.70305007644143,,,,,Europe/Madrid,1
+3832,P0014211,Estrada do Monte Alba  32,Parada,42.1654791616152,-8.72177500506362,,,,,Europe/Madrid,1
+3833,P0014212,Estrada do Monte Alba  54,Parada,42.1646941014072,-8.72447296196796,,,,,Europe/Madrid,1
+3834,P0014213,Estrada do Freixo (Campo Fútbol),Parada,42.1691532411414,-8.7290014644239,,,,,Europe/Madrid,1
+5445,PA20169,Estrada do Freixo (despois 235),Parada,42.1736167818915,-8.73081086321874,,,,,Europe/Madrid,1
+3835,P0014214,Estrada do Freixo  191,Parada,42.1757609072851,-8.73451692353711,,,,,Europe/Madrid,1
+3826,P0014205,Estrada do Freixo (Cemiterio),Parada,42.1784086293897,-8.73319854922192,,,,,Europe/Madrid,1
+3836,P0014215,Estrada do Freixo  90,Parada,42.1755921685963,-8.73447778772723,,,,,Europe/Madrid,1
+5444,PA20168,Estrada do Freixo (despois 118),Parada,42.1735960865966,-8.73091892840251,,,,,Europe/Madrid,1
+3837,P0014216,Estrada do Freixo (fronte Campo Fútbol),Parada,42.1691433013283,-8.72907656627632,,,,,Europe/Madrid,1
+3838,P0014217,Estrada do Monte Alba (frente 54),Parada,42.1645708389255,-8.72456147486545,,,,,Europe/Madrid,1
+3839,P0014218,Estrada do Monte Alba  21,Parada,42.1652883050951,-8.72136730929336,,,,,Europe/Madrid,1
+3331,P005410,Avda. do Fragoso  12,Parada,42.2196896975879,-8.73338468554755,,,,,Europe/Madrid,1
+3335,P005450,Avda. do Fragoso  54,Parada,42.2153486779577,-8.73627363806889,,,,,Europe/Madrid,1
+3337,P005470,Avda. do Fragoso  86,Parada,42.213152639945,-8.73847080304168,,,,,Europe/Madrid,1
+3874,P0014253,Estrada Clara Campoamor (cruce Rúa do Padrón do Couto),Parada,42.1644555638924,-8.7072238433849,,,,,Europe/Madrid,1
+3175,P003850,Estrada Clara Campoamor (cruce Estrada Marcosende),Parada,42.1679339173026,-8.69275881146217,,,,,Europe/Madrid,1
+3682,P008700,Enxeñeiros (CUVI),Parada,42.1679634449449,-8.68842134235567,,,,,Europe/Madrid,1
+3687,P008740,Telecomunicacións (CUVI),Parada,42.1701238877933,-8.68727039341317,,,,,Europe/Madrid,1
+3684,P008720,Humanidades (CUVI),Parada,42.1696788090724,-8.6791047490971,,,,,Europe/Madrid,1
+4081,P0020009,Estrada Herville  16,Parada,42.1548432311558,-8.67357437992004,,,,,Europe/Madrid,1
+4090,P0020018,Estrada Herville  70,Parada,42.1514516044136,-8.673803366643,,,,,Europe/Madrid,1
+4091,P0020019,Subida aos Padróns  165,Parada,42.1492221934191,-8.6793639872464,,,,,Europe/Madrid,1
+4092,P0020020,Subida aos Padróns (cruce Parque Forestal),Parada,42.1516060545513,-8.67929908245398,,,,,Europe/Madrid,1
+4982,PA20130,Parque Forestal de Zamáns (Proba Andaina),Parada,42.1527883090144,-8.68190268368781,,,,,Europe/Madrid,1
+4153,P0020081,Subida aos Padróns (cruce Camiño da Chan da Rabicha),Parada,42.1518528579493,-8.68495678643015,,,,,Europe/Madrid,1
+4093,P0020021,Subida aos Padróns (fronte 34),Parada,42.1527701764956,-8.68625182777163,,,,,Europe/Madrid,1
+3721,P009050,Estrada da Igrexa  45,Parada,42.1546469711232,-8.68834906173694,,,,,Europe/Madrid,1
+3101,P003140,Estrada De Zamáns  255,Parada,42.1580034597411,-8.68613469146689,,,,,Europe/Madrid,1
+3407,P006150,Estrada De Zamáns  233,Parada,42.1606168457165,-8.69108840137445,,,,,Europe/Madrid,1
+3620,P008100,Estrada da Gándara  79,Parada,42.1607356692423,-8.70977112403119,,,,,Europe/Madrid,1
+3197,P004070,Estrada da Gándara  55,Parada,42.1622546588929,-8.71374079337323,,,,,Europe/Madrid,1
+3127,P003400,Estrada da Gándara  22,Parada,42.1635844514487,-8.7160887284135,,,,,Europe/Madrid,1
+3198,P004080,Estrada da Gándara  48,Parada,42.1622526707136,-8.71400364985669,,,,,Europe/Madrid,1
+3621,P008110,Estrada da Gándara (Seoane) ,Parada,42.1606700511405,-8.70987841239179,,,,,Europe/Madrid,1
+3408,P006160,Estrada De Zamáns  150,Parada,42.1606359423442,-8.69145082973441,,,,,Europe/Madrid,1
+3102,P003150,Estrada de Zamáns (cruce Igrexa),Parada,42.1576614690086,-8.685973758926,,,,,Europe/Madrid,1
+3466,P006670,Estrada da Venda  109,Parada,42.1830048320782,-8.70260105609196,,,,,Europe/Madrid,1
+3282,P004920,Estrada da Venda  49,Parada,42.1866103417352,-8.70993780366362,,,,,Europe/Madrid,1
+3280,P004900,Estrada da Venda  35,Parada,42.1883048454678,-8.71147474924388,,,,,Europe/Madrid,1
+3277,P004870,Estrada da Venda  5,Parada,42.1920298086166,-8.71262371458889,,,,,Europe/Madrid,1
+3714,P008980,Rúa do Seixo  38,Parada,42.1975326846198,-8.71361470469526,,,,,Europe/Madrid,1
+3716,P009000,Rúa do Seixo (Parque),Parada,42.2007195492316,-8.7141158718423,,,,,Europe/Madrid,1
+3469,P006700,Rúa do Portoloureiro  43,Parada,42.2049474063742,-8.71558964305757,,,,,Europe/Madrid,1
+3471,P006720,Rúa do Portoloureiro (fronte 28),Parada,42.2073853469673,-8.71812760428548,,,,,Europe/Madrid,1
+3119,P003320,Rúa da Costa  63,Parada,42.2101548484315,-8.72090240285542,,,,,Europe/Madrid,1
+3803,P0014182,Rúa da Costa  39,Parada,42.2116182445241,-8.7214715901512,,,,,Europe/Madrid,1
+3116,P003290,Rúa da Costa  13,Parada,42.2133976850968,-8.72248210972825,,,,,Europe/Madrid,1
+3630,P008200,Subida da Costa  21,Parada,42.2147143368737,-8.72306838827902,,,,,Europe/Madrid,1
+3631,P008210,Subida da Costa  3,Parada,42.2143771292198,-8.72596453751606,,,,,Europe/Madrid,1
+5452,PA20174,Baixada ao Pontillón S/N,Parada,42.2151991698273,-8.72679377295157,,,,,Europe/Madrid,1
+3092,P003052,Avda. Arquitecto Antonio Palacios (cruce Rúa Ricardo Torres),Parada,42.2169666308608,-8.72981384494378,,,,,Europe/Madrid,1
+3333,P005430,Avda. do Fragoso  36,Parada,42.2173818708533,-8.73466981427913,,,,,Europe/Madrid,1
+3802,P0014181,Camiño da Corredoura (Igrexa),Parada,42.210954716032,-8.72777652230093,,,,,Europe/Madrid,1
+3632,P008220,Camiño da Corredoura  3,Parada,42.2139932584019,-8.72674082360555,,,,,Europe/Madrid,1
+3629,P008190,Subida da Costa (Colina),Parada,42.2146607005407,-8.72284040051275,,,,,Europe/Madrid,1
+3800,P0014179,Rúa da Costa  4,Parada,42.2132606115201,-8.72256257599869,,,,,Europe/Madrid,1
+3117,P003300,Rúa da Costa  22,Parada,42.2117513484189,-8.72169153129042,,,,,Europe/Madrid,1
+3118,P003310,Rúa da Costa  74,Parada,42.2092330232567,-8.7206663684621,,,,,Europe/Madrid,1
+3467,P006680,Rúa do Portoloureiro  26,Parada,42.2073118367853,-8.71865063504339,,,,,Europe/Madrid,1
+3468,P006690,Rúa do Portoloureiro  52,Parada,42.2049595596665,-8.7156955571204,,,,,Europe/Madrid,1
+3715,P008990,Rúa do Seixo  75,Parada,42.2006738489018,-8.71418560927668,,,,,Europe/Madrid,1
+3713,P008970,Rúa do Seixo  45,Parada,42.1974253827295,-8.71370053538374,,,,,Europe/Madrid,1
+3281,P004910,Estrada da Venda  4,Parada,42.1920576300178,-8.71272295632244,,,,,Europe/Madrid,1
+3278,P004880,Estrada da Venda  240,Parada,42.1880219022703,-8.71145759537696,,,,,Europe/Madrid,1
+3279,P004890,Estrada da Venda  238,Parada,42.1866100144717,-8.7100239435498,,,,,Europe/Madrid,1
+3276,P004860,Estrada da Venda (cruce Camiño da Coutadiña),Parada,42.1827444654913,-8.70286123036641,,,,,Europe/Madrid,1
+3172,P003820,Rúa do Falcoído  16,Parada,42.1826599544757,-8.69966344229051,,,,,Europe/Madrid,1
+3173,P003830,Rúa do Falcoído (cruce Camiño Goaldino),Parada,42.1806354049555,-8.69695824262195,,,,,Europe/Madrid,1
+3683,P008710,Universidade.,Parada,42.167985106422,-8.68842539539457,,,,,Europe/Madrid,1
+3680,P008680,Económicas e Empresariais (CUVI),Parada,42.1696030283462,-8.68010889534341,,,,,Europe/Madrid,1
+3728,P0014105,Ciencias Xurídicas (CUVI),Parada,42.1672379782832,-8.68113570397894,,,,,Europe/Madrid,1
+3678,P008660,Química (CUVI),Parada,42.1682909770263,-8.68342947010385,,,,,Europe/Madrid,1
+3679,P008670,Bioloxía (CUVI),Parada,42.1676876606373,-8.68599433523354,,,,,Europe/Madrid,1
+3176,P003860,Estrada Clara Campoamor (cruce Rúa do Falcoído),Parada,42.1682480206482,-8.69260860775734,,,,,Europe/Madrid,1
+3174,P003840,Rúa do Falcoído (cruce Camiño das Presas),Parada,42.1810190109409,-8.69691800948672,,,,,Europe/Madrid,1
+3177,P003870,Rúa do Falcoído  13 ,Parada,42.182749987633,-8.69995325435761,,,,,Europe/Madrid,1
+4082,P0020010,Avda. de Balaídos  69,Parada,42.2128248448105,-8.73716107715592,,,,,Europe/Madrid,1
+4083,P0020011,Avda. de Balaídos  11,Parada,42.2130890612514,-8.73339257348998,,,,,Europe/Madrid,1
+2985,P002020,Avda. de Madrid  2,Parada,42.2285186149564,-8.71921412618477,,,,,Europe/Madrid,1
+2986,P002030,Avda. de Madrid  28,Parada,42.2267444284066,-8.71626869946624,,,,,Europe/Madrid,1
+2979,P001960,Avda. de Madrid  62,Parada,42.224676782406,-8.71183232575561,,,,,Europe/Madrid,1
+2982,P001990,Avda. de Madrid  110,Parada,42.2221301983633,-8.70830077437458,,,,,Europe/Madrid,1
+2978,P001950,Avda. de Madrid  124,Parada,42.2205671544403,-8.70641962796356,,,,,Europe/Madrid,1
+2977,P001940,Avda. de Madrid  136,Parada,42.2183389538562,-8.70381742946623,,,,,Europe/Madrid,1
+2981,P001980,Estrada de Madrid (Seminario),Parada,42.214703323978,-8.69937839698933,,,,,Europe/Madrid,1
+3265,P004750,Estrada Vella de Madrid  6,Parada,42.2139838832339,-8.69746426933392,,,,,Europe/Madrid,1
+3266,P004760,Estrada Vella de Madrid  34,Parada,42.216359908133,-8.69304076939727,,,,,Europe/Madrid,1
+3274,P004840,Estrada Vella de Madrid  76,Parada,42.2187456166098,-8.68900940924789,,,,,Europe/Madrid,1
+4168,P0020096,Estrada Vella de Madrid (fronte 107A),Parada,42.2191289908869,-8.68575320750381,,,,,Europe/Madrid,1
+3267,P004770,Estrada Vella de Madrid  104,Parada,42.2198229228983,-8.68419824721661,,,,,Europe/Madrid,1
+3268,P004780,Estrada Vella de Madrid  136,Parada,42.2208452014053,-8.6805819085231,,,,,Europe/Madrid,1
+3270,P004800,Estrada Vella de Madrid  160,Parada,42.2180492879246,-8.67989940841997,,,,,Europe/Madrid,1
+3188,P003980,Estrada Vella de Madrid (cruce Hospital),Parada,42.2162038598054,-8.68157042463625,,,,,Europe/Madrid,1
+4853,PA20112,H. A. Cunqueiro (Urxencias),Parada,42.188578188111,-8.71308712507761,,,,,Europe/Madrid,1
+4865,PA20119,H. A. Cunqueiro (chegada),Parada,42.1909308781793,-8.71409353964998,,,,,Europe/Madrid,1
+4002,P0014383,Estrada Clara Campoamor (cruce Estrada do Portal),Parada,42.1747182651995,-8.71368465588867,,,,,Europe/Madrid,1
+3686,P008730,Telecomunicacións (CUVI) B,Parada,42.1701596705586,-8.68735085968362,,,,,Europe/Madrid,1
+3685,P008721,Universidade..,Parada,42.1697766019541,-8.67894215631554,,,,,Europe/Madrid,1
+5545,PA20216,Avda. de Cesáreo Vázquez (fronte 43),Parada,42.1797475890812,-8.80215738817756,,,,,Europe/Madrid,1
+4121,P0020049,Avda. de Cesáreo Vázquez  62,Parada,42.1823834199984,-8.80212606863856,,,,,Europe/Madrid,1
+3098,P003110,Avda. de Cesáreo Vázquez  74,Parada,42.1844166753908,-8.80217971281886,,,,,Europe/Madrid,1
+3095,P003080,Avda. de Cesáreo Vázquez  136,Parada,42.1875329546771,-8.80094857888102,,,,,Europe/Madrid,1
+3096,P003090,Avda. de Cesáreo Vázquez  182,Parada,42.190974769146,-8.79947070955976,,,,,Europe/Madrid,1
+3168,P003780,Rúa de Canido  217,Parada,42.1930417926563,-8.79759045319437,,,,,Europe/Madrid,1
+3167,P003770,Rúa de Canido  135,Parada,42.1950347996766,-8.79570184424932,,,,,Europe/Madrid,1
+3259,P004690,Estrada do Vao  153,Parada,42.1963071912676,-8.79077797269321,,,,,Europe/Madrid,1
+3263,P004730,Estrada do Vao  91,Parada,42.1940526604902,-8.78551291962401,,,,,Europe/Madrid,1
+3261,P004710,Estrada do Vao  65,Parada,42.1940645922692,-8.7812240674092,,,,,Europe/Madrid,1
+3257,P004670,Estrada do Vao  27,Parada,42.193836069068,-8.77644168873564,,,,,Europe/Madrid,1
+3137,P003490,Estrada de Camposancos  171,Parada,42.1936135041724,-8.77222257395522,,,,,Europe/Madrid,1
+3133,P003450,Estrada de Camposancos  155,Parada,42.1947322858957,-8.76924532194869,,,,,Europe/Madrid,1
+3136,P003480,Estrada de Camposancos  141,Parada,42.1960954672515,-8.76623051901595,,,,,Europe/Madrid,1
+5531,PA20211,Estrada de Camposancos  109,Parada,42.1984228250871,-8.76253802627525,,,,,Europe/Madrid,1
+3140,P003520,Estrada de Camposancos  75,Parada,42.2000000354988,-8.7591079129769,,,,,Europe/Madrid,1
+3134,P003460,Estrada de Camposancos  19,Parada,42.2031970309951,-8.75343772311942,,,,,Europe/Madrid,1
+3823,P0014202,Rúa de Jenaro de la Fuente  58,Parada,42.2312737858673,-8.70014564481647,,,,,Europe/Madrid,1
+3533,P007330,Avda. de Ramón Nieto  50,Parada,42.2317766357828,-8.69773586902761,,,,,Europe/Madrid,1
+3536,P007360,Avda. de Ramón Nieto  96,Parada,42.2304321008643,-8.69404514942312,,,,,Europe/Madrid,1
+3521,P007210,Avda. de Ramón Nieto  136,Parada,42.2296615044421,-8.69141658458852,,,,,Europe/Madrid,1
+3523,P007230,Avda. de Ramón Nieto  198,Parada,42.2295602152924,-8.68785461101675,,,,,Europe/Madrid,1
+3524,P007240,Avda. de Ramón Nieto  252,Parada,42.2294549538211,-8.68453940067434,,,,,Europe/Madrid,1
+3526,P007260,Avda. de Ramón Nieto  308,Parada,42.2295324096781,-8.68134757194662,,,,,Europe/Madrid,1
+3529,P007290,Avda. de Ramón Nieto  360,Parada,42.2284118617515,-8.67848948923023,,,,,Europe/Madrid,1
+3974,P0014354,Avda. de Ramón Nieto (fronte Igrexa),Parada,42.2259114330613,-8.67552624262095,,,,,Europe/Madrid,1
+3530,P007300,Avda. de Ramón Nieto  390,Parada,42.2239576808112,-8.67345133228096,,,,,Europe/Madrid,1
+3531,P007310,Avda. de Ramón Nieto  406,Parada,42.223219273064,-8.6722729827533,,,,,Europe/Madrid,1
+3562,P007590,Avda. do Tranvía  40,Parada,42.2252015510368,-8.66710168377259,,,,,Europe/Madrid,1
+3824,P0014203,Avda. do Tranvía S/N (despois Camiño Lugar),Parada,42.2265244006892,-8.66125178591111,,,,,Europe/Madrid,1
+3557,P007540,Avda. do Tranvía  100,Parada,42.2266576238369,-8.65944798273836,,,,,Europe/Madrid,1
+3810,P0014189,Rúa Molais  84,Parada,42.2260814869329,-8.65413320318558,,,,,Europe/Madrid,1
+3422,P006280,Rúa Molais (Parque da Grileira),Parada,42.2238439434213,-8.65334865019145,,,,,Europe/Madrid,1
+3004,P002210,Avda. de Santa Mariña  137,Parada,42.2225386986513,-8.65661649630394,,,,,Europe/Madrid,1
+3804,P0014183,Rúa do Xalón (Colexio),Parada,42.2206222350401,-8.65488802404388,,,,,Europe/Madrid,1
+3894,P0014273,Rúa do Xalón  41,Parada,42.2192740615128,-8.65641989290219,,,,,Europe/Madrid,1
+3805,P0014184,Rúa do Xalón  5,Parada,42.2173849856725,-8.65708239852887,,,,,Europe/Madrid,1
+3806,P0014185,Rúa da Becerreira  81,Parada,42.2196670978768,-8.65947052286717,,,,,Europe/Madrid,1
+3809,P0014188,Rúa da Becerreira  41,Parada,42.2175955775684,-8.66141416608792,,,,,Europe/Madrid,1
+3807,P0014186,Rúa da Becerreira (fronte 64),Parada,42.2180445165197,-8.66261847793561,,,,,Europe/Madrid,1
+3808,P0014187,Rúa da Becerreira  1,Parada,42.2215880289001,-8.66203585071358,,,,,Europe/Madrid,1
+3007,P002240,Avda. de Santa Mariña  77,Parada,42.2224322091529,-8.66277345819267,,,,,Europe/Madrid,1
+4034,P0014415,Avda. de Santa Mariña (antes 49),Parada,42.2215574164389,-8.66538153377445,,,,,Europe/Madrid,1
+3005,P002220,Avda. de Santa Mariña  17,Parada,42.2203386336331,-8.66866627139839,,,,,Europe/Madrid,1
+2937,P001540,Avda. da Ponte  15,Parada,42.2216774286362,-8.66978207034859,,,,,Europe/Madrid,1
+3534,P007340,Avda. de Ramón Nieto  503,Parada,42.2232724226383,-8.6721611897448,,,,,Europe/Madrid,1
+3532,P007320,Avda. de Ramón Nieto  475,Parada,42.2244621835614,-8.67384293479714,,,,,Europe/Madrid,1
+3975,P0014355,Avda. de Ramón Nieto  409,Parada,42.2266383631081,-8.67613510406733,,,,,Europe/Madrid,1
+3528,P007280,Avda. de Ramón Nieto  355,Parada,42.228432118162,-8.67827376041555,,,,,Europe/Madrid,1
+3527,P007270,Avda. de Ramón Nieto  341,Parada,42.2295701448799,-8.68123223695898,,,,,Europe/Madrid,1
+3525,P007250,Avda. de Ramón Nieto  273,Parada,42.2295333331771,-8.68459319782582,,,,,Europe/Madrid,1
+3537,P007370,Avda. de Ramón Nieto  247,Parada,42.2296078807857,-8.68698021087789,,,,,Europe/Madrid,1
+3522,P007220,Avda. de Ramón Nieto  173,Parada,42.2297365809379,-8.69187907663257,,,,,Europe/Madrid,1
+3520,P007200,Avda. de Ramón Nieto  125,Parada,42.2310239289276,-8.69459232006216,,,,,Europe/Madrid,1
+3535,P007350,Avda. de Ramón Nieto  57,Parada,42.2319275710881,-8.69766881380224,,,,,Europe/Madrid,1
+3764,P0014141,Rúa de Jenaro de la Fuente  43,Parada,42.2313792020047,-8.69987621275715,,,,,Europe/Madrid,1
+3139,P003510,Estrada de Camposancos  28,Parada,42.202849226749,-8.75387029100335,,,,,Europe/Madrid,1
+3141,P003530,Estrada de Camposancos  88,Parada,42.199773285399,-8.75995884502663,,,,,Europe/Madrid,1
+5530,PA20210,Estrada de Camposancos  108,Parada,42.1982405603405,-8.76318218897202,,,,,Europe/Madrid,1
+3142,P003540,Estrada de Camposancos  138,Parada,42.1961738396009,-8.76629539247821,,,,,Europe/Madrid,1
+3138,P003500,Estrada de Camposancos  190  ,Parada,42.1945532409902,-8.77032558286919,,,,,Europe/Madrid,1
+3135,P003470,Estrada de Camposancos  214,Parada,42.1935817090671,-8.77249615927474,,,,,Europe/Madrid,1
+3260,P004700,Estrada do Vao  46,Parada,42.1940147207192,-8.77705524528756,,,,,Europe/Madrid,1
+3262,P004720,Estrada do Vao  90,Parada,42.1939374160367,-8.78163417255445,,,,,Europe/Madrid,1
+3258,P004680,Estrada do Vao  116,Parada,42.1942969104036,-8.78657440508141,,,,,Europe/Madrid,1
+3264,P004740,Estrada do Vao (Praia do Vao),Parada,42.1965953213996,-8.79101937150455,,,,,Europe/Madrid,1
+3166,P003760,Rúa de Canido (fronte 119),Parada,42.1957320999685,-8.79521136164411,,,,,Europe/Madrid,1
+3165,P003750,Rúa de Canido (Praia de Canido),Parada,42.1931289336636,-8.79795794367536,,,,,Europe/Madrid,1
+3100,P003130,Avda. de Cesáreo Vázquez  169,Parada,42.1910304128649,-8.79959677338346,,,,,Europe/Madrid,1
+3099,P003120,Avda. de Cesáreo Vázquez  141,Parada,42.1873207011025,-8.80112140664593,,,,,Europe/Madrid,1
+3097,P003100,Avda. de Cesáreo Vázquez  99,Parada,42.1847668427901,-8.80218087920682,,,,,Europe/Madrid,1
+4120,P0020048,Avda. de Cesáreo Vázquez (cruce Camiño Amariz Lourenzo),Parada,42.1826844062649,-8.80240236401303,,,,,Europe/Madrid,1
+3599,P007890,Avda. de Cesáreo Vázquez  61,Parada,42.1807642888351,-8.80256062987738,,,,,Europe/Madrid,1
+2938,P001550,Avda. da Ponte  18,Parada,42.2212992070704,-8.67001370874317,,,,,Europe/Madrid,1
+3009,P002260,Avda. de Santa Mariña  18,Parada,42.2205046630563,-8.66805301395328,,,,,Europe/Madrid,1
+4033,P0014414,Avda. de Santa Mariña  40,Parada,42.221587211153,-8.66507844415577,,,,,Europe/Madrid,1
+3006,P002230,Avda. de Santa Mariña  52,Parada,42.222347963115,-8.66284148183735,,,,,Europe/Madrid,1
+4152,P0020080,Avda. de Santa Mariña  68,Parada,42.2216745564282,-8.66093734663809,,,,,Europe/Madrid,1
+3008,P002250,Avda. de Santa Mariña (cruce Camiño do Narxo),Parada,42.2208261146264,-8.65965109361747,,,,,Europe/Madrid,1
+3003,P002200,Avda. de Santa Mariña  110,Parada,42.2227174799096,-8.6561766140255,,,,,Europe/Madrid,1
+3010,P002270,Avda. de Santa Mariña  103,Parada,42.2211320098991,-8.65859162105659,,,,,Europe/Madrid,1
+4154,P0020082,Avda. de Santa Mariña (fronte 66),Parada,42.2217580318965,-8.66113559690388,,,,,Europe/Madrid,1
+3819,P0014198,Rúa do Riomao  21,Parada,42.2272313008404,-8.65999796907161,,,,,Europe/Madrid,1
+3307,P005170,Rúa das Figueiras (Praza da Feira),Parada,42.2275296435307,-8.66169040994583,,,,,Europe/Madrid,1
+3318,P005280,Rúa das Figueiras  113,Parada,42.2259407161159,-8.66383081273972,,,,,Europe/Madrid,1
+3317,P005270,Rúa das Figueiras  65,Parada,42.2243676385997,-8.66598999099671,,,,,Europe/Madrid,1
+3315,P005250,Rúa das Figueiras  29,Parada,42.2230487634296,-8.66737401084839,,,,,Europe/Madrid,1
+2941,P001580,Avda. da Ponte  54,Parada,42.2183935866613,-8.66948010587811,,,,,Europe/Madrid,1
+2934,P001510,Avda. da Ponte  80,Parada,42.2152033653466,-8.67041619682431,,,,,Europe/Madrid,1
+3131,P003430,Avda. da Ponte  86 (Cemiterio),Parada,42.2156212061988,-8.67221512001043,,,,,Europe/Madrid,1
+3731,P0014108,Avda. da Ponte (antes desvío Autovía),Parada,42.2140174104929,-8.67133083009838,,,,,Europe/Madrid,1
+2936,P001530,Avda. da Ponte (fronte Grupo S. Gorxal),Parada,42.2128144168983,-8.67053767389922,,,,,Europe/Madrid,1
+3720,P009040,Estrada das Plantas (cruce Camiño Monte Vello),Parada,42.2083156404566,-8.67028243794584,,,,,Europe/Madrid,1
+4028,P0014409,Estrada das Plantas (fronte cruce Avda. do Rebullón),Parada,42.2041884414817,-8.67025712584677,,,,,Europe/Madrid,1
+3245,P004550,Estrada das Plantas (cruce Camiño do Pouso),Parada,42.1999451818914,-8.66908587334265,,,,,Europe/Madrid,1
+4040,P0014421,Estrada das Prantas (fronte Campo de Béisbol),Parada,42.1866832639263,-8.66932070289306,,,,,Europe/Madrid,1
+3244,P004540,Estrada das Plantas (fronte Viveiros),Parada,42.1813704163607,-8.66786108417642,,,,,Europe/Madrid,1
+3983,P0014364,Estrada das Plantas (fronte Cidade Deportiva),Parada,42.1757571858695,-8.67107437057626,,,,,Europe/Madrid,1
+5427,PA20156,Económicas e Empresariais (CUVI 2),Parada,42.1696276179898,-8.67984144954193,,,,,Europe/Madrid,1
+3114,P003270,Rúa da Coruña (fronte 39),Parada,42.226490284861,-8.73744901017923,,,,,Europe/Madrid,1
+2904,P001210,Avda. de Beiramar  61,Parada,42.2308119759278,-8.73536493377466,,,,,Europe/Madrid,1
+2903,P001200,Avda. de Beiramar  51,Parada,42.2342337976631,-8.73312315988358,,,,,Europe/Madrid,1
+4134,P0020062,Avda. de Beiramar  1,Parada,42.2361437063135,-8.73180717970359,,,,,Europe/Madrid,1
+3730,P0014107,Camiño Padín (Rotonda Autoestrada),Parada,42.2578472045692,-8.67769650722121,,,,,Europe/Madrid,1
+2887,P001040,Avda. da Atlántida  32,Parada,42.2232375030989,-8.7557078007506,,,,,Europe/Madrid,1
+3888,P0014267,Avda. da Atlántida  64,Parada,42.2218927922154,-8.75819152629839,,,,,Europe/Madrid,1
+2889,P001060,Avda. da Atlántida  84,Parada,42.2217895050802,-8.75990545785891,,,,,Europe/Madrid,1
+2890,P001070,Avda. da Atlántida  114,Parada,42.221148356715,-8.76466096901999,,,,,Europe/Madrid,1
+2884,P001010,Avda. da Atlántida  136,Parada,42.22147964223,-8.76748269832598,,,,,Europe/Madrid,1
+2885,P001020,Avda. da Atlántida  150,Parada,42.2227647784153,-8.76940584218966,,,,,Europe/Madrid,1
+3474,P006750,Avda. de Samil (Praia da Fonte),Parada,42.2217835541153,-8.77351766860949,,,,,Europe/Madrid,1
+3791,P0014170,Avda. de Samil (Praia da Punta),Parada,42.2188317438685,-8.77571001023186,,,,,Europe/Madrid,1
+3478,P006790,Avda. de Samil (fronte Hotel),Parada,42.2147730383228,-8.77476593300653,,,,,Europe/Madrid,1
+3477,P006780,Avda. de Samil (Dunas),Parada,42.2102568433301,-8.77474062456807,,,,,Europe/Madrid,1
+3480,P006810,Avda. de Samil (Parking),Parada,42.2074059281831,-8.77615312205509,,,,,Europe/Madrid,1
+3481,P006820,Avda. de Samil (Polideportivo),Parada,42.2036271297186,-8.77702753506347,,,,,Europe/Madrid,1
+3475,P006760,Rúa de Canido (Praia da Calzoa),Parada,42.2018470367017,-8.78220563268161,,,,,Europe/Madrid,1
+3170,P003800,Rúa de Canido  26,Parada,42.1996395193712,-8.78572737311816,,,,,Europe/Madrid,1
+3482,P006830,Praia do Vao,Parada,42.1974950833893,-8.79023555551947,,,,,Europe/Madrid,1
+2812,P00310,Rúa do Arquitecto Antonio Cominges  4,Parada,42.1908504630076,-8.80358844999216,,,,,Europe/Madrid,1
+2809,P00280,Rúa do Arquitecto Antonio Cominges  38,Parada,42.1894906738165,-8.8081071141857,,,,,Europe/Madrid,1
+5533,PA20212,Rúa do Canabido  18,Parada,42.1883887317614,-8.8059568637035,,,,,Europe/Madrid,1
+2838,P00560,Avda. de Ricardo Mella  518,Parada,42.1810159153756,-8.80769692072715,,,,,Europe/Madrid,1
+3016,P002330,Avda. de Ricardo Mella  357 ,Parada,42.1733169677364,-8.81100290974425,,,,,Europe/Madrid,1
+3015,P002320,Baixada á Praia  121,Parada,42.1725418917711,-8.80913328693867,,,,,Europe/Madrid,1
+3021,P002380,Baixada á Praia  101,Parada,42.1697191113993,-8.80883232395405,,,,,Europe/Madrid,1
+3019,P002360,Baixada á Praia (Parque C.Cívico),Parada,42.1678253450358,-8.80638683079886,,,,,Europe/Madrid,1
+3597,P007870,Baixada á Praia  4,Parada,42.166897971422,-8.80220465803123,,,,,Europe/Madrid,1
+3017,P002340,Baixada á Praia  44,Parada,42.1679814436874,-8.8065042390821,,,,,Europe/Madrid,1
+3018,P002350,Baixada á Praia  74,Parada,42.1698503156128,-8.80886182825321,,,,,Europe/Madrid,1
+3020,P002370,Baixada á Praia  94,Parada,42.1727056515194,-8.80911441496386,,,,,Europe/Madrid,1
+3014,P002310,Baixada á Praia (fronte 187),Parada,42.1733987206629,-8.81105066621259,,,,,Europe/Madrid,1
+2848,P00650,Avda. de Ricardo Mella  289,Parada,42.1810654405129,-8.80750987110585,,,,,Europe/Madrid,1
+2843,P00600,Avda. de Ricardo Mella  273,Parada,42.1899271706224,-8.80063418353691,,,,,Europe/Madrid,1
+2846,P00630,Avda. de Ricardo Mella  223,Parada,42.1893045267859,-8.79068363024552,,,,,Europe/Madrid,1
+3977,P0014357,Avda. de Ricardo Mella (cruce Camiño do Río),Parada,42.1917964730838,-8.78401408824786,,,,,Europe/Madrid,1
+2845,P00620,Avda. de Ricado Mella  165,Parada,42.193567800208,-8.78152956640287,,,,,Europe/Madrid,1
+2841,P00580,Avda. de Ricardo Mella  135,Parada,42.1957660115568,-8.77364896612698,,,,,Europe/Madrid,1
+3869,P0014248,Camiño dos Muíños  74,Parada,42.2005807232885,-8.76911861966838,,,,,Europe/Madrid,1
+3423,P006290,Rúa de San Paio (cruce Rúa Muíños),Parada,42.2020317814838,-8.76950242425542,,,,,Europe/Madrid,1
+3600,P007900,Rúa de San Paio (cruce Camiño da Quintela),Parada,42.2049247197727,-8.7689042916451,,,,,Europe/Madrid,1
+3601,P007910,Rúa de San Paio (Igrexa),Parada,42.2080400134645,-8.76745858098607,,,,,Europe/Madrid,1
+3602,P007920,Rúa de San Paio (Torreiro),Parada,42.2089260961263,-8.76529403831105,,,,,Europe/Madrid,1
+4021,P0014402,Rúa de San Paio  111,Parada,42.2107912027594,-8.761940347174,,,,,Europe/Madrid,1
+3610,P008000,Rúa de San Paio  83,Parada,42.2120345168193,-8.7609167146237,,,,,Europe/Madrid,1
+3607,P007970,Rúa de San Paio (fronte 58),Parada,42.2138204647328,-8.76065117593123,,,,,Europe/Madrid,1
+3275,P004850,Estrada Vella de Madrid (frente Centro Comercial),Parada,42.2164481967605,-8.68163747986162,,,,,Europe/Madrid,1
+3798,P0014177,Rúa de Fernando Conde (cruce Avda. da Gran Vía),Parada,42.2298512498224,-8.71972059019444,,,,,Europe/Madrid,1
+3122,P003350,Rúa do Couto  1,Parada,42.2309117959331,-8.72271125324605,,,,,Europe/Madrid,1
+3799,P0014178,Rúa do Marqués de Alcedo (Parque),Parada,42.233009004534,-8.72449760444997,,,,,Europe/Madrid,1
+2969,P001860,Avda. de Europa (cruce Rúa da Pardaíña),Parada,42.2167415679919,-8.75712974187482,,,,,Europe/Madrid,1
+2968,P001850,Avda. de Europa (antes Camiño Freixeiro) ,Parada,42.2161356914434,-8.75963224288572,,,,,Europe/Madrid,1
+3608,P007980,Rúa de San Paio  54,Parada,42.2143071695972,-8.76071018452956,,,,,Europe/Madrid,1
+3609,P007990,Rúa de San Paio  76,Parada,42.2126126215431,-8.76086843486144,,,,,Europe/Madrid,1
+4020,P0014401,Rúa de San Paio (cruce Camiño Barroca),Parada,42.2107216698522,-8.76212541959603,,,,,Europe/Madrid,1
+3603,P007930,Rúa de San Paio  136,Parada,42.2089992108149,-8.76534675262292,,,,,Europe/Madrid,1
+3604,P007940,Rúa de San Paio  220,Parada,42.2079879657767,-8.76768832109292,,,,,Europe/Madrid,1
+3605,P007950,Rúa de San Paio  242,Parada,42.2062536489157,-8.76874247180002,,,,,Europe/Madrid,1
+3606,P007960,Rúa de San Paio  284,Parada,42.2021113430132,-8.76956088081553,,,,,Europe/Madrid,1
+3868,P0014247,Camiño dos Muíños  69,Parada,42.2005111791424,-8.76911057304133,,,,,Europe/Madrid,1
+2839,P00570,Avda. de Ricardo Mella  250,Parada,42.1952251020105,-8.77522637521787,,,,,Europe/Madrid,1
+2835,P00530,Avda. de Ricardo Mella (Estación Coruxo),Parada,42.193562859444,-8.78173993956033,,,,,Europe/Madrid,1
+3976,P0014356,Avda. de Ricardo Mella  314,Parada,42.1920091143336,-8.7839931227546,,,,,Europe/Madrid,1
+2836,P00540,Avda. de Ricardo Mella (fronte 223),Parada,42.1894244240913,-8.79073306409347,,,,,Europe/Madrid,1
+3915,P0014294,Avda. de Ricardo Mella  406,Parada,42.1907049741236,-8.79930683206638,,,,,Europe/Madrid,1
+3870,P0014249,Avda. de Cesáreo Vázquez  5,Parada,42.177662554391,-8.80015792254835,,,,,Europe/Madrid,1
+5511,PA20196,Estrada de Camposancos  498,Parada,42.1753251551633,-8.79959413873135,,,,,Europe/Madrid,1
+5474,PA20178,Estrada de Camposancos (cruce Camiño da Estea),Parada,42.1724124432802,-8.79959156738707,,,,,Europe/Madrid,1
+2813,P00320,Rúa do Arquitecto Antonio Cominges  70,Parada,42.1892213307127,-8.81173024597129,,,,,Europe/Madrid,1
+2814,P00330,Rúa do Arquitecto Antonio Cominges  90,Parada,42.187213168806,-8.81306920086325,,,,,Europe/Madrid,1
+2808,P00270,Rúa de Desiderio Pernas Arquitecto  1,Parada,42.1892015098447,-8.81034086170158,,,,,Europe/Madrid,1
+2810,P00290,Rúa do Arquitecto Gómez Román  37,Parada,42.1901494713961,-8.80378822507819,,,,,Europe/Madrid,1
+2997,P002140,Avda. de Samil (Verbum),Parada,42.2132322098528,-8.77438241463199,,,,,Europe/Madrid,1
+2999,P002160,Avda. de Samil  15,Parada,42.2158607962027,-8.77472014420962,,,,,Europe/Madrid,1
+3792,P0014171,Avda. de Samil (fronte Praia da Punta) ,Parada,42.218844713451,-8.77545922149395,,,,,Europe/Madrid,1
+2998,P002150,Avda. de Samil (fronte Praia da Fonte),Parada,42.2214164979684,-8.77372415328131,,,,,Europe/Madrid,1
+2882,P00990,Avda. da Atlántida (fronte 148),Parada,42.2224513661935,-8.76913489365683,,,,,Europe/Madrid,1
+2883,P001000,Avda. da Atlántida  109,Parada,42.2212205079821,-8.76719446770401,,,,,Europe/Madrid,1
+2881,P00980,Avda. da Atlántida  99,Parada,42.2211700873495,-8.76365697704177,,,,,Europe/Madrid,1
+2888,P001050,Avda. da Atlántida  71,Parada,42.2218753541928,-8.7609353806983,,,,,Europe/Madrid,1
+3889,P0014268,Avda. da Atlántida  49,Parada,42.2217319452619,-8.75841717467048,,,,,Europe/Madrid,1
+2886,P001030,Avda. da Atlántida  25,Parada,42.2232196769264,-8.75475327715614,,,,,Europe/Madrid,1
+3795,P0014174,Rúa do Padre Seixas (Parque da Bouza),Parada,42.2118445159088,-8.74928792068781,,,,,Europe/Madrid,1
+3496,P006955,Praza de España (cruce Rúa de Fernando Conde),Parada,42.2294383772222,-8.71978110824407,,,,,Europe/Madrid,1
+3956,P0014336,Rúa das Teixugueiras  8 ,Parada,42.2144762599214,-8.75600551008591,,,,,Europe/Madrid,1
+3718,P009020,Xestoso  ,Parada,42.207584621812,-8.67010819597522,,,,,Europe/Madrid,1
+3553,P007500,Rúa do Carballal  18,Parada,42.1963882249032,-8.68415167610371,,,,,Europe/Madrid,1
+3552,P007490,Rúa do Carballal  52,Parada,42.1940910989468,-8.6833926109525,,,,,Europe/Madrid,1
+3583,P007760,Camiño das Cunchadas (cruce Rúa da Senra),Parada,42.1933001990945,-8.68102153818333,,,,,Europe/Madrid,1
+3565,P007620,Rúa das Chans  97,Parada,42.1891467580241,-8.67870854843673,,,,,Europe/Madrid,1
+3775,P0014154,Rúa das Chans (fronte 56),Parada,42.1936025797968,-8.6772589927044,,,,,Europe/Madrid,1
+3564,P007610,Rúa das Chans (Colexio),Parada,42.1966473945228,-8.67780190414109,,,,,Europe/Madrid,1
+3563,P007600,Rúa dos Chans (cruce Subida Chans),Parada,42.1985445539639,-8.67782493880654,,,,,Europe/Madrid,1
+3633,P008230,Rúa dos Chans (cruce Camiño Regada),Parada,42.1991466250437,-8.67641946128273,,,,,Europe/Madrid,1
+3950,P0014330,Subida ás Chans (fronte cruce Rúa Senra),Parada,42.1980726666054,-8.68262465251763,,,,,Europe/Madrid,1
+3550,P007470,Rúa Da Cruz  63,Parada,42.1982068243807,-8.68487833626475,,,,,Europe/Madrid,1
+3490,P006900,Rúa da Cruz  49,Parada,42.1990314426816,-8.68616579659189,,,,,Europe/Madrid,1
+3551,P007480,Rúa Da Cruz  19,Parada,42.2007298873202,-8.68425896446431,,,,,Europe/Madrid,1
+3773,P0014152,Rúa do Monte Calvario  4,Parada,42.2048154022016,-8.68716896894594,,,,,Europe/Madrid,1
+3639,P008282,Subida á Mouteira  6,Parada,42.2068549007755,-8.68603105796655,,,,,Europe/Madrid,1
+3570,P007662,Rúa de Recaré  6,Parada,42.2110134620992,-8.68554294967979,,,,,Europe/Madrid,1
+3571,P007664,Rúa de Recaré (cruce Segade),Parada,42.2112013273881,-8.68883851690984,,,,,Europe/Madrid,1
+3584,P007762,Rúa de Segade  41,Parada,42.2095751005179,-8.69054883285523,,,,,Europe/Madrid,1
+3147,P003574,Estrada de Bembrive  129,Parada,42.2085333108364,-8.69498785414859,,,,,Europe/Madrid,1
+3125,P003380,Cruce Eifonso,Parada,42.2056231077994,-8.693239334824,,,,,Europe/Madrid,1
+3717,P009010,Rúa de Xeme  71,Parada,42.203157886958,-8.69429310838902,,,,,Europe/Madrid,1
+3029,P002460,Rúa de Xeme  59,Parada,42.2033009425872,-8.69632085840428,,,,,Europe/Madrid,1
+4030,P0014411,Rúa de Xeme  1,Parada,42.2051745429446,-8.69820913355076,,,,,Europe/Madrid,1
+3059,P002750,Rúa do Cacheno  28,Parada,42.2067183399351,-8.69916012687596,,,,,Europe/Madrid,1
+3061,P002760,Rúa do Cacheno  66,Parada,42.2081944428025,-8.70151897947514,,,,,Europe/Madrid,1
+3024,P002410,Baixada ao Río  31,Parada,42.209020913615,-8.70233168880665,,,,,Europe/Madrid,1
+3508,P007070,Estrada de Moledo  109,Parada,42.2106201876454,-8.7041770486089,,,,,Europe/Madrid,1
+3214,P004240,Estrada de Moledo  73,Parada,42.2123783488959,-8.70472958366597,,,,,Europe/Madrid,1
+3215,P004250,Estrada de Moledo  25,Parada,42.2133775972892,-8.70601167957508,,,,,Europe/Madrid,1
+3213,P004230,Estrada de Moledo  1,Parada,42.2153737610103,-8.70737834942534,,,,,Europe/Madrid,1
+3505,P007040,Estrada de Miraflores  1 ,Parada,42.2184353477763,-8.70992442919304,,,,,Europe/Madrid,1
+3539,P007390,Camiño do Raviso  35,Parada,42.2201673107403,-8.70696386377537,,,,,Europe/Madrid,1
+4846,PA20105,Rúa de Emilia Pardo Bazán  121,Parada,42.2212320348181,-8.70980864726283,,,,,Europe/Madrid,1
+3221,P004310,Rúa de Emilia Pardo Bazán  111,Parada,42.2227137615185,-8.71155580560887,,,,,Europe/Madrid,1
+3225,P004350,Rúa de Emilia Pardo Bazán  43,Parada,42.2245629515732,-8.71339043657505,,,,,Europe/Madrid,1
+3223,P004330,Rúa de Emilia Pardo Bazán (cruce Baixada á Salgueira),Parada,42.2264631464714,-8.71614062010943,,,,,Europe/Madrid,1
+3219,P004290,Rúa de Emilia Pardo Bazán  3,Parada,42.2277857394905,-8.71946088941414,,,,,Europe/Madrid,1
+3472,P006730,Rúa do Couto  29,Parada,42.1993864114692,-8.69541701563335,,,,,Europe/Madrid,1
+2787,P0070,Rúa da Lagoa (cruce Camiño do Casmarcelo),Parada,42.200201750454,-8.70062160802792,,,,,Europe/Madrid,1
+3375,P005840,Rúa da Lagoa (cruce Rúa do Balde),Parada,42.2013608957114,-8.7028773943978,,,,,Europe/Madrid,1
+5442,PA20166,Camiño da Brea  2,Parada,42.2021348414087,-8.70572792997086,,,,,Europe/Madrid,1
+3038,P002550,Camiño da Brea  10,Parada,42.2040865774397,-8.70483244471805,,,,,Europe/Madrid,1
+5579,PA2551,Camiño da Brea  40,Parada,42.2057798605791,-8.70488510068489,,,,,Europe/Madrid,1
+5580,PA7849,Rúa de Saá  105,Parada,42.2062223601601,-8.707026830708,,,,,Europe/Madrid,1
+3594,P007840,Rúa da Saa do Monte  73,Parada,42.2030399890608,-8.71093662269419,,,,,Europe/Madrid,1
+3859,P0014238,Rúa da Saa do Monte  5,Parada,42.2045880197971,-8.71461730909641,,,,,Europe/Madrid,1
+3861,P0014240,Rúa das Chabarras  21,Parada,42.1979850907779,-8.71452320105581,,,,,Europe/Madrid,1
+3863,P0014242,Rúa das Chabarras (cruce Camiño dos Pasais),Parada,42.1963782587289,-8.71697904286432,,,,,Europe/Madrid,1
+3518,P007170,Rúa de Ramiro Pascual  9,Parada,42.1953225117746,-8.71946051518597,,,,,Europe/Madrid,1
+3383,P005920,Rúa de Macal (cruce Rúa de Ramiro Pascual),Parada,42.1961735941724,-8.72102381405878,,,,,Europe/Madrid,1
+3385,P005940,Rúa de Macal  39,Parada,42.1983473364177,-8.72148800316808,,,,,Europe/Madrid,1
+3384,P005930,Rúa de Macal (frente 8),Parada,42.2020507748494,-8.72345413334028,,,,,Europe/Madrid,1
+3302,P005120,Camiño da Falcoa  41,Parada,42.2049352340576,-8.72245396898279,,,,,Europe/Madrid,1
+3304,P005140,Camiño da Falcoa  15,Parada,42.2073362951989,-8.72129505960157,,,,,Europe/Madrid,1
+3012,P002290,Baixada á Laxe  44,Parada,42.2164151255381,-8.71935507608941,,,,,Europe/Madrid,1
+3619,P008090,Estrada Miraflores (Centro Saúde),Parada,42.2161516432666,-8.71561647676755,,,,,Europe/Madrid,1
+3205,P004150,Estrada de Miraflores  69,Parada,42.2176209089425,-8.71242961241296,,,,,Europe/Madrid,1
+3591,P007810,Estrada Miraflores (Parque Parróco Xesús Alonso),Parada,42.2178179588097,-8.71094066829943,,,,,Europe/Madrid,1
+3106,P003190,Camiño de Quirós (cruce Rúa de Dona Cristina),Parada,42.2196817817622,-8.71138597881207,,,,,Europe/Madrid,1
+3222,P004320,Rúa de Emilia Pardo Bazán  2,Parada,42.2277162252942,-8.71975056798775,,,,,Europe/Madrid,1
+3224,P004340,Rúa de Emilia Pardo Bazán  54,Parada,42.2261125028575,-8.71571837620706,,,,,Europe/Madrid,1
+3218,P004280,Rúa de Emilia Pardo Bazán  80,Parada,42.2245073373832,-8.71346553842747,,,,,Europe/Madrid,1
+3220,P004300,Rúa de Emilia Pardo Bazán  104,Parada,42.2227892400514,-8.71175428907597,,,,,Europe/Madrid,1
+4845,PA20104,Rúa de Emilia Pardo Bazán  134,Parada,42.2209384348961,-8.7096218828645,,,,,Europe/Madrid,1
+3538,P007380,Camiño do Raviso  8,Parada,42.2200878563512,-8.70701482574665,,,,,Europe/Madrid,1
+3506,P007050,Praza de Miraflores  4 ,Parada,42.2185028857807,-8.7101336414962,,,,,Europe/Madrid,1
+3210,P004200,Estrada de Moledo  6 ,Parada,42.215236994445,-8.70738497059071,,,,,Europe/Madrid,1
+3212,P004220,Estrada de Moledo  22,Parada,42.2137375570632,-8.70628311532192,,,,,Europe/Madrid,1
+3211,P004210,Estrada de Moledo  42,Parada,42.2121410781656,-8.70456354495595,,,,,Europe/Madrid,1
+3507,P007060,Estrada de Moledo  70,Parada,42.2104992864666,-8.70398319236409,,,,,Europe/Madrid,1
+3025,P002420,Rúa do Cacheno (Lavadero),Parada,42.2084686060766,-8.70214393417561,,,,,Europe/Madrid,1
+3058,P002740,Rúa do Cacheno  75,Parada,42.2074514008542,-8.70119443218434,,,,,Europe/Madrid,1
+3062,P002770,Rúa do Cacheno  49,Parada,42.206487030144,-8.69876056092971,,,,,Europe/Madrid,1
+4031,P0014412,Rúa de Xeme  6,Parada,42.2049758596275,-8.69795700590336,,,,,Europe/Madrid,1
+3777,P0014156,Rúa de Xeme (cruce Camiño da Carballeira),Parada,42.2033784312095,-8.6966668633672,,,,,Europe/Madrid,1
+3778,P0014157,Rúa do Xeme (cruce Rúa de Eifonso),Parada,42.2029790662929,-8.69406512062275,,,,,Europe/Madrid,1
+3126,P003390,Estrada de Bembrive  160,Parada,42.205296643969,-8.69255891360788,,,,,Europe/Madrid,1
+3148,P003580,Estrada de Bembrive  180,Parada,42.2044403177652,-8.69087180413752,,,,,Europe/Madrid,1
+3035,P002520,Estrada de Bembrive  238 ,Parada,42.2045636648038,-8.68702535871981,,,,,Europe/Madrid,1
+3735,P0014112,Estrada de Bembrive (Alameda),Parada,42.2040471976983,-8.68469728753368,,,,,Europe/Madrid,1
+3548,P007450,Rúa da Cruz  2 ,Parada,42.2021684218884,-8.68473907987797,,,,,Europe/Madrid,1
+3547,P007440,Rúa Da Cruz  18,Parada,42.2006404736152,-8.684744444296,,,,,Europe/Madrid,1
+3489,P006890,Rúa da Cruz  36,Parada,42.1989596419178,-8.68628496027767,,,,,Europe/Madrid,1
+3549,P007460,Rúa da Cruz  46,Parada,42.1980752498215,-8.68480077068531,,,,,Europe/Madrid,1
+3772,P0014150,Rúa do Padre Don Rúa  1,Parada,42.2320765605537,-8.71905523574731,,,,,Europe/Madrid,1
+3146,P003572,Estrada de Bembrive  110,Parada,42.2084578152637,-8.69501735844776,,,,,Europe/Madrid,1
+3585,P007764,Rúa de Segade  86,Parada,42.2096545681339,-8.69049518867493,,,,,Europe/Madrid,1
+3573,P007668,Rúa de Recaré  39,Parada,42.2110225294899,-8.68831816836095,,,,,Europe/Madrid,1
+3572,P007666,Rúa de Recaré  3,Parada,42.210514541449,-8.68534977687676,,,,,Europe/Madrid,1
+3640,P008284,Subida á Mouteira (Parque Monte Calvario),Parada,42.2067794031967,-8.68621881259759,,,,,Europe/Madrid,1
+2974,P001910,Avda. de Europa (fronte cruce Rúa do Bravo),Parada,42.2119056943944,-8.76699903558014,,,,,Europe/Madrid,1
+2970,P001870,Avda. de Europa  102,Parada,42.2112350815438,-8.7734592936035,,,,,Europe/Madrid,1
+5557,PA20220,COIA - SAMIL,Parada,42.2137839553013,-8.77437237094861,,,,,Europe/Madrid,1
+2935,P001520,Avda. da Ponte  83,Parada,42.2154007041496,-8.6713085333634,,,,,Europe/Madrid,1
+2940,P001570,Avda. da Ponte  47,Parada,42.2179575394358,-8.66936957656668,,,,,Europe/Madrid,1
+3919,P0014298,Avda. de Samil (fronte 15),Parada,42.2158655350198,-8.77491165804645,,,,,Europe/Madrid,1
+3479,P006800,Avda. de Samil  26,Parada,42.2155788477595,-8.77488553771274,,,,,Europe/Madrid,1
+3920,P0014299,Avda. de Samil (frente Verbum),Parada,42.2137772170752,-8.77460028406117,,,,,Europe/Madrid,1
+5401,PA20143,Rúa das Teixugueiras (fronte 1),Parada,42.2154480944644,-8.75647430588279,,,,,Europe/Madrid,1
+2939,P001560,Avda. da Ponte  31,Parada,42.219388604733,-8.66917260631789,,,,,Europe/Madrid,1
+3113,P003260,Rúa da Coruña  37,Parada,42.2262876964054,-8.73747583226938,,,,,Europe/Madrid,1
+4144,P0020072,Camiño do Pouso ,Parada,42.1966436937009,-8.67166321780212,,,,,Europe/Madrid,1
+4117,P0020045,Rúa de Xestoso  4,Parada,42.2005329888619,-8.67407544652662,,,,,Europe/Madrid,1
+4118,P0020046,Rúa de Xestoso  12,Parada,42.2019684440601,-8.67477878976663,,,,,Europe/Madrid,1
+4119,P0020047,Rúa do Xestoso  72,Parada,42.2043303057662,-8.67467048333822,,,,,Europe/Madrid,1
+4143,P0020071,Rúa de Xestoso (fronte 105),Parada,42.2055116531745,-8.67282480315703,,,,,Europe/Madrid,1
+3719,P009030,Xestoso (B),Parada,42.2075373967311,-8.67007190521696,,,,,Europe/Madrid,1
+3242,P004520,Estrada das Plantas (Cidade Deportiva),Parada,42.1758843845501,-8.67078902258348,,,,,Europe/Madrid,1
+3984,P0014365,Estrada das Plantas (Viveiros),Parada,42.1816501974626,-8.66751572262874,,,,,Europe/Madrid,1
+4041,P0014422,Estrada das Plantas (Campo de Béisbol),Parada,42.1869531495361,-8.66951406607046,,,,,Europe/Madrid,1
+3243,P004530,Estrada das Plantas (fronte cruce Camiño do Pouso),Parada,42.1996810154872,-8.6688602893442,,,,,Europe/Madrid,1
+4029,P0014410,Estrada das Plantas (cruce Avda. do Rebullón),Parada,42.204639457332,-8.67032954549017,,,,,Europe/Madrid,1
+3316,P005260,Rúa das Figueiras  22,Parada,42.2228382181956,-8.66779511766373,,,,,Europe/Madrid,1
+3308,P005180,Rúa das Figueiras  96,Parada,42.2245622884807,-8.66579418973862,,,,,Europe/Madrid,1
+3309,P005190,Rúa das Figueiras  124,Parada,42.2260519420194,-8.6636296470636,,,,,Europe/Madrid,1
+3310,P005200,Rúa das Figueiras  138,Parada,42.2275336160967,-8.66156166391312,,,,,Europe/Madrid,1
+3312,P005220,Rúa das Figueiras  190,Parada,42.2289842166511,-8.65843832648221,,,,,Europe/Madrid,1
+5506,PA20191,Rúa das Figueiras  200,Parada,42.2296762052003,-8.65738339217427,,,,,Europe/Madrid,1
+3313,P005230,Rúa das Figueiras  254,Parada,42.2302618937963,-8.65368301221966,,,,,Europe/Madrid,1
+4161,P0020089,Porriño - Padre Seixas ©,Parada,42.2130445661907,-8.75139683497565,,,,,Europe/Madrid,1
+3796,P0014175,Rúa do Padre Seixas  32,Parada,42.2117928637606,-8.74961783239664,,,,,Europe/Madrid,1
+3432,P006370,Rúa de Pablo Iglesias (Río),Parada,42.2101309655943,-8.74487242807373,,,,,Europe/Madrid,1
+3431,P006360,Rúa de Pablo Iglesias (Colexio),Parada,42.2114262658843,-8.74316654314026,,,,,Europe/Madrid,1
+3296,P005060,Estadio de Balaídos (Avda. do Fragoso),Parada,42.2126762465717,-8.73958554519445,,,,,Europe/Madrid,1
+3877,P0014256,Rúa de Zamora  89,Parada,42.2221989013775,-8.72831783403382,,,,,Europe/Madrid,1
+3878,P0014257,Rúa de Zamora  71,Parada,42.2234482710705,-8.72554711212143,,,,,Europe/Madrid,1
+3879,P0014258,Rúa de Zamora  51,Parada,42.2248704164257,-8.7236320148848,,,,,Europe/Madrid,1
+3880,P0014259,Rúa de Zamora  31,Parada,42.2270889818096,-8.72154525627121,,,,,Europe/Madrid,1
+3882,P0014261,Rúa de Zamora  1,Parada,42.2286441179132,-8.72069231380448,,,,,Europe/Madrid,1
+4094,P0020022,Rúa da Vía Norte (Hospital),Parada,42.234622236739,-8.70775844310072,,,,,Europe/Madrid,1
+4095,P0020023,Rúa da Vía Norte - Est. Intermodal - C.C.,Parada,42.2340629726593,-8.71219575905201,,,,,Europe/Madrid,1
+3765,P0014142,Avda. da Hispanidade  22,Parada,42.2314634336458,-8.72884442496471,,,,,Europe/Madrid,1
+3766,P0014143,Avda. da Hispanidade  38,Parada,42.2297534826277,-8.72900267529658,,,,,Europe/Madrid,1
+3767,P0014144,Avda. da Hispanidade  82,Parada,42.2267604360964,-8.7273853032606,,,,,Europe/Madrid,1
+3876,P0014255,Rúa do Pintor Colmeiro (Parque do Pintor Colmeiro),Parada,42.2251119175383,-8.72673352646999,,,,,Europe/Madrid,1
+3928,P0014307,Rúa do Pintor Colmeiro  11,Parada,42.2244644157404,-8.72796734261684,,,,,Europe/Madrid,1
+3504,P007030,Rúa de Manuel Castro  23,Parada,42.2128089515285,-8.74002299417481,,,,,Europe/Madrid,1
+3433,P006380,Rúa de Pablo Iglesias  2,Parada,42.2118116715932,-8.74242088903412,,,,,Europe/Madrid,1
+3434,P006390,Rúa de Pablo Iglesias  20,Parada,42.2102044724957,-8.74559126008973,,,,,Europe/Madrid,1
+3420,P006260,Estrada da Balsa  3 ,Parada,42.1995686432231,-8.7410305543535,,,,,Europe/Madrid,1
+3082,P002960,Rúa dos Canteiros  101,Parada,42.2007369896287,-8.73889551597765,,,,,Europe/Madrid,1
+3087,P003010,Rúa dos Canteiros  73,Parada,42.2012125203802,-8.73571146730225,,,,,Europe/Madrid,1
+3086,P003000,Rúa dos Canteiros  49,Parada,42.2011886767166,-8.73320896629136,,,,,Europe/Madrid,1
+3085,P002990,Rúa dos Canteiros  9,Parada,42.2037925726908,-8.72963072343907,,,,,Europe/Madrid,1
+3290,P005000,Rúa do Doutor Corbal  6,Parada,42.2501213952634,-8.69612237594183,,,,,Europe/Madrid,1
+4023,P0014404,Rúa do Doutor Corbal  58,Parada,42.2517856415656,-8.69687199414673,,,,,Europe/Madrid,1
+3292,P005020,Rúa do Doutor Corbal  94,Parada,42.2541045107821,-8.69765519917908,,,,,Europe/Madrid,1
+3287,P004970,Rúa do Doutor Corbal  126,Parada,42.2558833122349,-8.69681298554841,,,,,Europe/Madrid,1
+3288,P004980,Rúa do Doutor Corbal  149,Parada,42.257539060886,-8.69701981358895,,,,,Europe/Madrid,1
+3286,P004960,Rúa do Doutor Corbal  135,Parada,42.2562108750843,-8.69688272298279,,,,,Europe/Madrid,1
+3291,P005010,Rúa do Doutor Corbal  95,Parada,42.2541695385547,-8.69775227316541,,,,,Europe/Madrid,1
+4022,P0014403,Rúa de Pedro Alvarado (cruce Camiño das Maceiras),Parada,42.250496539915,-8.69839003499516,,,,,Europe/Madrid,1
+4027,P0014408,Rúa de Pedro Alvarado  5,Parada,42.2488850064485,-8.69812875767374,,,,,Europe/Madrid,1
+4025,P0014406,Rúa de Enrique Lorenzo  32,Parada,42.249462772217,-8.69977295179987,,,,,Europe/Madrid,1
+3908,P0014287,Rúa Santa Tegra  67,Parada,42.2502033404961,-8.70192408342981,,,,,Europe/Madrid,1
+3909,P0014288,Avda. de Guixar (fronte 28),Parada,42.2492188488217,-8.70480760521762,,,,,Europe/Madrid,1
+3910,P0014289,Rúa de Xulián Estévez (fronte 58),Parada,42.2464849719577,-8.70586400535099,,,,,Europe/Madrid,1
+3911,P0014290,Rúa de Xulián Estévez (fronte 18),Parada,42.244107541517,-8.70634363847407,,,,,Europe/Madrid,1
+3081,P002950,Rúa dos Canteiros  4,Parada,42.2043071688909,-8.72971923633656,,,,,Europe/Madrid,1
+3088,P003020,Rúa dos Canteiros  76,Parada,42.2012184810405,-8.73350937370103,,,,,Europe/Madrid,1
+3083,P002970,Rúa dos Canteiros  116,Parada,42.2013178288885,-8.73563636544984,,,,,Europe/Madrid,1
+3084,P002980,Rúa dos Canteiros  164,Parada,42.2007588462904,-8.73904303747346,,,,,Europe/Madrid,1
+3397,P006050,Rúa de Manuel Cominges  22,Parada,42.1989084902552,-8.73623432985372,,,,,Europe/Madrid,1
+3400,P006080,Rúa de Manuel Cominges  64,Parada,42.1977361438048,-8.73226729353419,,,,,Europe/Madrid,1
+3402,P006100,Rúa de Manuel Cominges  80,Parada,42.1970665210353,-8.73046860918765,,,,,Europe/Madrid,1
+4000,P0014381,Rúa do Abade Juan de Bastos  6,Parada,42.1956476848469,-8.72897415307301,,,,,Europe/Madrid,1
+2785,P0050,Rúa do Abade Juan de Bastos  24,Parada,42.1928704199616,-8.72751392389509,,,,,Europe/Madrid,1
+2784,P0040,Rúa do Abade Juan de Bastos (cruce Baixada da Moo),Parada,42.1921266767217,-8.72901588961383,,,,,Europe/Madrid,1
+2782,P0020,Rúa do Abade Juan de Bastos (fronte Asociación Veciños),Parada,42.1875934993047,-8.74124664147053,,,,,Europe/Madrid,1
+3722,P0010061,Estrada de San Xoán  193,Parada,42.1852774722818,-8.74155895272128,,,,,Europe/Madrid,1
+3234,P004440,Estrada de San Xoán  169,Parada,42.1832750384054,-8.74243744394553,,,,,Europe/Madrid,1
+3236,P004460,Estrada de San Xoán  141,Parada,42.1836671200267,-8.74440277681359,,,,,Europe/Madrid,1
+3235,P004450,Estrada de San Xoán  61,Parada,42.1850811786415,-8.74802963423883,,,,,Europe/Madrid,1
+3338,P005480,Estrada de San Xoán  25,Parada,42.1861797567011,-8.74888832936077,,,,,Europe/Madrid,1
+3892,P0014271,Estrada da Balsa  103,Parada,42.1960504743001,-8.74510571502537,,,,,Europe/Madrid,1
+3891,P0014270,Estrada da Balsa  67,Parada,42.1966192181497,-8.74324004842828,,,,,Europe/Madrid,1
+3898,P0014277,Avda. da Mariña Española  8,Parada,42.2517763989719,-8.69414008984663,,,,,Europe/Madrid,1
+3899,P0014278,Avda. da Mariña Española  44,Parada,42.2543017300454,-8.69291561628495,,,,,Europe/Madrid,1
+3900,P0014279,Riós (Rotonda),Parada,42.2570690931285,-8.69078661052646,,,,,Europe/Madrid,1
+3901,P0014280,Avda. da Mariña Española (ETEA),Parada,42.2546047157923,-8.69253968104761,,,,,Europe/Madrid,1
+3902,P0014281,Avda. da Mariña Española (Praia de Ríos),Parada,42.2515967068101,-8.69420171009921,,,,,Europe/Madrid,1
+3044,P002610,Rúa da Cabalaría  14,Parada,42.2334261009517,-8.69329863899873,,,,,Europe/Madrid,1
+3042,P002590,Rúa da Cabalaría  94,Parada,42.2324426209148,-8.68955854070191,,,,,Europe/Madrid,1
+4114,P0020042,Rúa da Cabalaría  148,Parada,42.2337233979934,-8.68909423116696,,,,,Europe/Madrid,1
+3045,P002620,Rúa da Cabalaría  186,Parada,42.2354207367204,-8.6889403400445,,,,,Europe/Madrid,1
+4115,P0020043,Rúa do Areiro  20,Parada,42.2360367861634,-8.68665676750391,,,,,Europe/Madrid,1
+3966,P0014346,Rúa do Areiro  52,Parada,42.2372876883257,-8.68501999190292,,,,,Europe/Madrid,1
+3968,P0014348,Rúa do Areiro  76,Parada,42.2389509880034,-8.68379346736072,,,,,Europe/Madrid,1
+4052,P0014895,Rúa do Areiro (cruce Camiño das Laxes),Parada,42.2413922746185,-8.68120323468978,,,,,Europe/Madrid,1
+3970,P0014350,Rúa do Areiro (fronte Campo de Fútbol),Parada,42.2448493532267,-8.67836631854755,,,,,Europe/Madrid,1
+3973,P0014353,Praza dos Leóns (fronte Vigozoo),Parada,42.2481516475495,-8.67597609715093,,,,,Europe/Madrid,1
+3917,P0014296,Praza dos Leóns (Vigozoo),Parada,42.2483756040353,-8.67557866571474,,,,,Europe/Madrid,1
+4053,P0014896,Rúa do Areiro  93,Parada,42.2413855316277,-8.68140093691943,,,,,Europe/Madrid,1
+3641,P008290,Subida das Ánimas  31,Parada,42.2356465254153,-8.68590898801682,,,,,Europe/Madrid,1
+3642,P008300,Subida das Ánimas  32,Parada,42.2355622499361,-8.68604436604102,,,,,Europe/Madrid,1
+3043,P002600,Rúa da Cabalaría  153,Parada,42.2354379970737,-8.68901979364603,,,,,Europe/Madrid,1
+4113,P0020041,Rúa da Cabalaría  91,Parada,42.233622103328,-8.6892095661546,,,,,Europe/Madrid,1
+3047,P002640,Rúa da Cabalaría  67,Parada,42.2325597931765,-8.68984821927552,,,,,Europe/Madrid,1
+3046,P002630,Rúa da Cabalaría (cruce Subida ao Rosal Florido),Parada,42.2334836932241,-8.69326645249055,,,,,Europe/Madrid,1
+3377,P005860,Baixada á Laxe (Centro Saúde),Parada,42.2166952199193,-8.71588429762414,,,,,Europe/Madrid,1
+3011,P002280,Baixada á Laxe  31,Parada,42.2165084898649,-8.71917536808542,,,,,Europe/Madrid,1
+3944,P0014324,Rúa Finca dos Aires (Urbanización),Parada,42.2172564012209,-8.72010151868173,,,,,Europe/Madrid,1
+3945,P0014325,Rúa da Fonte Santa (fronte 4),Parada,42.217848285775,-8.72148110028289,,,,,Europe/Madrid,1
+3946,P0014326,Baixada á Ponte Nova  61,Parada,42.2180382794063,-8.72248973818228,,,,,Europe/Madrid,1
+3013,P002300,Baixada á Ponte Nova  13,Parada,42.2207873503147,-8.72272226121404,,,,,Europe/Madrid,1
+3104,P003170,Rúa das Coutadas  76,Parada,42.2209684462691,-8.72040082626185,,,,,Europe/Madrid,1
+3598,P007880,Barrio da Salgueira  106,Parada,42.2223642356098,-8.71889825385841,,,,,Europe/Madrid,1
+3294,P005040,Rúa da Salgueira Entrada  5,Parada,42.2225435855774,-8.71780981235347,,,,,Europe/Madrid,1
+3022,P002390,Baixada á Salgueira  49,Parada,42.2240203712467,-8.71678789071879,,,,,Europe/Madrid,1
+3935,P0014314,Rúa das Mantelas (cruce Avda. da Gran Vía),Parada,42.2272125683839,-8.72018303197655,,,,,Europe/Madrid,1
+4166,P0020094,Rúa das Mantelas (fronte 63),Parada,42.2251873595833,-8.71739928765406,,,,,Europe/Madrid,1
+3936,P0014315,Rúa das Mantelas  92,Parada,42.223933380402,-8.71692414802345,,,,,Europe/Madrid,1
+3938,P0014318,Rúa da Salguera Entrada (fronte 5),Parada,42.2225912563687,-8.71775348596415,,,,,Europe/Madrid,1
+3937,P0014317,Rúa da Salgueira Entrada (Igrexa),Parada,42.2227239327526,-8.71915028276678,,,,,Europe/Madrid,1
+3991,P0014372,Barrio da Salgueira  22,Parada,42.2218875257275,-8.72001137059959,,,,,Europe/Madrid,1
+3939,P0014319,Rúa das Coutadas (Fonte),Parada,42.2210022139257,-8.72027208022914,,,,,Europe/Madrid,1
+3940,P0014320,Rúa do Miradoiro (Rotonda Centro Comercial),Parada,42.2207990245116,-8.7233453564051,,,,,Europe/Madrid,1
+3941,P0014321,Camiño do Freixeiro  74,Parada,42.2181316413333,-8.72312005730078,,,,,Europe/Madrid,1
+3942,P0014322,Rúa da Fonte Santa  4,Parada,42.2178138135037,-8.72135248155996,,,,,Europe/Madrid,1
+3943,P0014323,Rúa Finca dos Aires (cruce Rúa da Fonte Santa),Parada,42.2170597423603,-8.72034023528406,,,,,Europe/Madrid,1
+3206,P004160,Estrada de Miraflores  36,Parada,42.2178493639698,-8.71099471133131,,,,,Europe/Madrid,1
+3207,P004170,Estrada de Miraflores  64,Parada,42.2173451855869,-8.71301133365893,,,,,Europe/Madrid,1
+3041,P002580,Camiño da Brea  69,Parada,42.2072354879619,-8.70463138124235,,,,,Europe/Madrid,1
+3039,P002560,Camiño da Brea  37,Parada,42.2042971847004,-8.70494241528766,,,,,Europe/Madrid,1
+5443,PA20167,Camiño da Brea  3,Parada,42.2020950583719,-8.70581423259014,,,,,Europe/Madrid,1
+3376,P005850,Rúa da Lagoa (fronte 21),Parada,42.201154252576,-8.70234363480384,,,,,Europe/Madrid,1
+2788,P0080,Rúa da Lagoa  46,Parada,42.2001322163372,-8.70053577733944,,,,,Europe/Madrid,1
+3110,P003230,Rúa de Colón  27,Parada,42.236471451664,-8.72016490516504,,,,,Europe/Madrid,1
+4133,P0020061,Rúa de Martín Echegaray (Colexio),Parada,42.2175681734405,-8.74401851118606,,,,,Europe/Madrid,1
+4116,P0020044,Rúa de Martín Echegaray  7,Parada,42.2152208735808,-8.74268096655862,,,,,Europe/Madrid,1
+4851,PA20110,Rúa de Manuel Castro  10,Parada,42.2137972540877,-8.74147269630015,,,,,Europe/Madrid,1
+3412,P006187,Rúa de Martín Echegaray (Parque),Parada,42.2152447117451,-8.7424422499563,,,,,Europe/Madrid,1
+4057,P0014900,Rúa de Martín Echegaray  24,Parada,42.217196116877,-8.74372666856783,,,,,Europe/Madrid,1
+4063,P0014906,Rúa da Rabadeira  6,Parada,42.2324797873064,-8.6548907917832,,,,,Europe/Madrid,1
+4064,P0014907,Rúa da Rabadeira  24,Parada,42.233655478727,-8.65330024183737,,,,,Europe/Madrid,1
+3853,P0014232,Rúa da Rabadeira (fronte 33),Parada,42.2353176619739,-8.65209464100164,,,,,Europe/Madrid,1
+5493,PA20187,Rúa da Rabadeira  46,Parada,42.2374221279908,-8.65153195001253,,,,,Europe/Madrid,1
+3568,P007650,Rúa da Rabadeira  64,Parada,42.2390431207732,-8.65024788797842,,,,,Europe/Madrid,1
+3569,P007660,Rúa da Rabadeira  104,Parada,42.2416108523591,-8.65186594380503,,,,,Europe/Madrid,1
+4010,P0014391,Rúa do Salgueiro (fronte 38),Parada,42.2416522961037,-8.65530293530639,,,,,Europe/Madrid,1
+3581,P007740,Rúa de Salgueiro  23,Parada,42.241658253408,-8.65820240325149,,,,,Europe/Madrid,1
+3582,P007750,Rúa do Salgueiro  1,Parada,42.2433305026005,-8.66185254497751,,,,,Europe/Madrid,1
+3069,P002840,Rúa da Goleta  3 ,Parada,42.2416982475111,-8.66520921518787,,,,,Europe/Madrid,1
+4050,P0014893,Rúa de Manuel Costas Bastos  26,Parada,42.243157956175,-8.66696217569381,,,,,Europe/Madrid,1
+3403,P006110,Camiño da Devesa  6,Parada,42.2439416355234,-8.66916902489405,,,,,Europe/Madrid,1
+3283,P004930,Travesía da Devesa (Asociación Veciños),Parada,42.2460185582708,-8.6692870420907,,,,,Europe/Madrid,1
+3284,P004940,Camiño da Devesa (fronte 55),Parada,42.2454507189251,-8.67240678318657,,,,,Europe/Madrid,1
+3634,P008240,Subida á Madroa (Urbanización),Parada,42.2433825668733,-8.6741253073763,,,,,Europe/Madrid,1
+3635,P008250,Subida á Madroa  15,Parada,42.2426697307234,-8.67009662943593,,,,,Europe/Madrid,1
+3575,P007680,Rúa San Cristobo  117,Parada,42.2408667448258,-8.66927319126836,,,,,Europe/Madrid,1
+3578,P007710,Rúa San Cristobo  41,Parada,42.2368257750713,-8.66931341277632,,,,,Europe/Madrid,1
+3576,P007690,Rúa San Cristobo  11,Parada,42.2354684464825,-8.67064915286574,,,,,Europe/Madrid,1
+3574,P007670,Rúa San Cristobo  6,Parada,42.2351691363394,-8.67117668539545,,,,,Europe/Madrid,1
+3577,P007700,Rúa San Cristobo  30,Parada,42.2364782634667,-8.66919438115323,,,,,Europe/Madrid,1
+3579,P007720,Rúa San Cristobo  80,Parada,42.2409972602281,-8.66907728643528,,,,,Europe/Madrid,1
+3854,P0014233,Rúa San Cristobo  90,Parada,42.2410372752698,-8.66894759668702,,,,,Europe/Madrid,1
+3070,P002850,Rúa da Goleta  2,Parada,42.2416764050161,-8.66502682497486,,,,,Europe/Madrid,1
+3566,P007630,Rúa do Salgueiro  6,Parada,42.2431359105945,-8.66173720998987,,,,,Europe/Madrid,1
+3580,P007730,Rúa do Salgueiro  24,Parada,42.2415808117515,-8.65806561059173,,,,,Europe/Madrid,1
+4009,P0014390,Rúa do Salgueiro (cruce Camiño Sanatorio),Parada,42.2415708830699,-8.65538071936782,,,,,Europe/Madrid,1
+3567,P007640,Rúa da Rabadeira  135,Parada,42.2416207807773,-8.65200005425578,,,,,Europe/Madrid,1
+3509,P007080,Rúa da Rabadeira  95,Parada,42.2387970178043,-8.650399428985,,,,,Europe/Madrid,1
+5492,PA20186,Rúa da Rabadeira  71,Parada,42.237554039611,-8.65155813809508,,,,,Europe/Madrid,1
+3852,P0014231,Rúa da Rabadeira  39,Parada,42.2355420662196,-8.65219656494421,,,,,Europe/Madrid,1
+4065,P0014908,Rúa da Rabadeira  17,Parada,42.2338290750619,-8.65345825896645,,,,,Europe/Madrid,1
+4066,P0014909,Rúa da Rabadeira  11,Parada,42.232663197575,-8.65509705940972,,,,,Europe/Madrid,1
+4102,P0020030,Subida á Madroa (Campo Fútbol),Parada,42.2478593792718,-8.67436362503099,,,,,Europe/Madrid,1
+4101,P0020029,Subida á Madroa (fronte Campo Fútbol),Parada,42.2459215059884,-8.6730144738965,,,,,Europe/Madrid,1
+3969,P0014349,Rúa do Areiro (Campo de Fútbol),Parada,42.2447173118926,-8.67847360690814,,,,,Europe/Madrid,1
+3967,P0014347,Rúa do Areiro (cruce Salcides),Parada,42.2391376498703,-8.68387393363116,,,,,Europe/Madrid,1
+3965,P0014345,Rúa do Areiro  49,Parada,42.2372698159448,-8.68513800909957,,,,,Europe/Madrid,1
+3813,P0014192,Rúa das Figueiras  282,Parada,42.2316255989969,-8.65204651569684,,,,,Europe/Madrid,1
+3814,P0014193,Avda. de Santa Mariña  443,Parada,42.230916628013,-8.641628815883,,,,,Europe/Madrid,1
+3815,P0014194,Avda. de Santa Mariña  425,Parada,42.228639376646,-8.64097836141789,,,,,Europe/Madrid,1
+3822,P0014201,Avda. de Santa Mariña (cruce Avda. do Tranvía),Parada,42.2262910558215,-8.6416475913461,,,,,Europe/Madrid,1
+3816,P0014195,Avda. de Santa Mariña  249,Parada,42.2262632557047,-8.64409108375867,,,,,Europe/Madrid,1
+3817,P0014196,Avda. de Santa Mariña  229,Parada,42.2252959997098,-8.64952792143185,,,,,Europe/Madrid,1
+3997,P0014378,Rúa Molais  83,Parada,42.2239620104892,-8.65334072629665,,,,,Europe/Madrid,1
+3818,P0014197,Rúa Molais (cruce Rúa das Carballas),Parada,42.2259124908568,-8.65369880120014,,,,,Europe/Madrid,1
+3396,P006040,Rúa de Manuel Álvarez (fronte cruce Camiño Sulevada),Parada,42.223203249831,-8.67521300722657,,,,,Europe/Madrid,1
+4132,P0020060,Rúa de Manuel Álvarez  10,Parada,42.2228258604622,-8.67807760645448,,,,,Europe/Madrid,1
+3394,P006020,Rúa de Manuel Álvarez  58,Parada,42.223195307409,-8.68187293221055,,,,,Europe/Madrid,1
+3820,P0014199,Camiño da Bouciña  79,Parada,42.2237554641378,-8.68204191137849,,,,,Europe/Madrid,1
+3842,P0014221,Camiño da Bouciña  3,Parada,42.2258092176696,-8.68165299107133,,,,,Europe/Madrid,1
+3821,P0014200,Rúa de Severino Cobas  119,Parada,42.2251126550573,-8.68340268353265,,,,,Europe/Madrid,1
+4123,P0020051,Rúa de Severino Cobas  89,Parada,42.2256529037297,-8.68662401655953,,,,,Europe/Madrid,1
+3596,P007860,Rúa de Severino Cobas  73,Parada,42.2254362830982,-8.68893946000929,,,,,Europe/Madrid,1
+3623,P008130,Rúa de Severino Cobas  51,Parada,42.2254859381975,-8.6922358948886,,,,,Europe/Madrid,1
+3622,P008120,Rúa de Severino Cobas (cruce Trav. de Santa Cristina),Parada,42.2249363199593,-8.69436909174283,,,,,Europe/Madrid,1
+3625,P008150,Rúa de Severino Cobas  3,Parada,42.2250767869152,-8.69716847726698,,,,,Europe/Madrid,1
+3996,P0014377,Rúa da Pateira  5,Parada,42.226582660979,-8.70038576176916,,,,,Europe/Madrid,1
+3995,P0014376,Rúa da Pateira  20,Parada,42.2266126513428,-8.6996584079202,,,,,Europe/Madrid,1
+3624,P008140,Rúa de Severino Cobas  14,Parada,42.2246576959875,-8.69653279373046,,,,,Europe/Madrid,1
+3626,P008160,Rúa de Severino Cobas  88,Parada,42.2248846785185,-8.69427521442731,,,,,Europe/Madrid,1
+4035,P0014416,Rúa de Severino Cobas  118,Parada,42.2254686229503,-8.69149108146985,,,,,Europe/Madrid,1
+3627,P008170,Rúa de Severino Cobas  140,Parada,42.2254289006912,-8.6887444994386,,,,,Europe/Madrid,1
+4122,P0020050,Rúa de Severino Cobas  186,Parada,42.2255500585088,-8.68668456291516,,,,,Europe/Madrid,1
+3811,P0014190,Rúa de Severino Cobas  196,Parada,42.2250808756044,-8.68331417063516,,,,,Europe/Madrid,1
+3841,P0014220,Camiño da Bouciña  14,Parada,42.2256573208275,-8.6814676663812,,,,,Europe/Madrid,1
+3812,P0014191,Camiño da Bouciña  76,Parada,42.2237375574439,-8.68214115311204,,,,,Europe/Madrid,1
+3825,P0014204,Rúa de Manuel Álvarez  151,Parada,42.2231268796317,-8.6818646333154,,,,,Europe/Madrid,1
+4131,P0020059,Rúa de Manuel Álvarez (fronte 10),Parada,42.2227455215355,-8.67793251489957,,,,,Europe/Madrid,1
+3393,P006010,Rúa de Manuel Álvarez (cruce Camiño Sulevada),Parada,42.2230772309701,-8.67549975132306,,,,,Europe/Madrid,1
+5379,PA20139,Estrada Matamá Pazo (fronte 162),Parada,42.199144892008,-8.75850671693448,,,,,Europe/Madrid,1
+3760,P0014137,Estrada Matamá Pazo (Igrexa),Parada,42.200003406436,-8.75316899999694,,,,,Europe/Madrid,1
+3185,P003950,Estrada de Casás (cruce Camiño do Rial),Parada,42.1960141931939,-8.75991951551845,,,,,Europe/Madrid,1
+3091,P003050,Estrada de Casás (cruce Camiño da Pedra Branca),Parada,42.1923602669068,-8.7566809589319,,,,,Europe/Madrid,1
+3184,P003940,Estrada de Casás  83,Parada,42.1961652139892,-8.75989001121928,,,,,Europe/Madrid,1
+3388,P005960,Rúa dos Mestres Goldar  77,Parada,42.2067577860858,-8.73005670468567,,,,,Europe/Madrid,1
+3390,P005980,Rúa dos Mestres Goldar  37,Parada,42.2071988490322,-8.7266583458638,,,,,Europe/Madrid,1
+3306,P005160,Camiño da Falcoa  26,Parada,42.2047836339523,-8.72266406176524,,,,,Europe/Madrid,1
+3381,P005900,Rúa de Macal  8,Parada,42.2020710342311,-8.72354188379086,,,,,Europe/Madrid,1
+3865,P0014244,Rúa de Macal  60,Parada,42.1982162344557,-8.72149804052151,,,,,Europe/Madrid,1
+3382,P005910,Rúa de Macal  90,Parada,42.1962133364218,-8.72113646683741,,,,,Europe/Madrid,1
+3511,P007100,Rúa de Ramiro Pascual  16,Parada,42.1952441999492,-8.71956211971002,,,,,Europe/Madrid,1
+3512,P007110,Rúa de Ramiro Pascual  30,Parada,42.1957091952291,-8.71689600394922,,,,,Europe/Madrid,1
+3514,P007130,Rúa de Ramiro Pascual  46,Parada,42.1935024695375,-8.71521962331491,,,,,Europe/Madrid,1
+3516,P007150,Rúa de Ramiro Pascual  74,Parada,42.1924154683167,-8.71184003995614,,,,,Europe/Madrid,1
+5425,PA20154,Rúa de Ramiro Pascual (fronte 127),Parada,42.1920896890251,-8.70924538912334,,,,,Europe/Madrid,1
+3510,P007090,Rúa de Ramiro Pascual  108,Parada,42.1919184747948,-8.70686969189552,,,,,Europe/Madrid,1
+3032,P002490,Rúa das Coutadas  57,Parada,42.1946357253888,-8.6995040315735,,,,,Europe/Madrid,1
+3240,P004500,Rúa de Manuel Lago Lago  20,Parada,42.188761212947,-8.77597365202823,,,,,Europe/Madrid,1
+3239,P004490,Rúa de Manuel Lago Lago (fronte Colexio),Parada,42.1875226480241,-8.77297793699006,,,,,Europe/Madrid,1
+3194,P004040,Estrada de Fragoselo  108,Parada,42.1866124803011,-8.769574881023,,,,,Europe/Madrid,1
+3191,P004010,Estrada de Fragoselo  170,Parada,42.1841485656766,-8.76723731231971,,,,,Europe/Madrid,1
+3195,P004050,Estrada de Fragoselo  196,Parada,42.1821110263408,-8.76479690988097,,,,,Europe/Madrid,1
+3329,P005390,Estrada de Fragoselo (cruce Camiño Río da Barxa),Parada,42.1795569588139,-8.76185452659163,,,,,Europe/Madrid,1
+3190,P004000,Estrada de Fragoselo  143,Parada,42.1824349970088,-8.76471376140151,,,,,Europe/Madrid,1
+3193,P004030,Estrada de Fragoselo  111,Parada,42.1841187533022,-8.76704955768867,,,,,Europe/Madrid,1
+3192,P004020,Estrada de Fragoselo  79,Parada,42.1870561871699,-8.76960570287986,,,,,Europe/Madrid,1
+3241,P004510,Rúa de Manuel Lago Lago (Colexio),Parada,42.1875429239121,-8.77288775297319,,,,,Europe/Madrid,1
+3115,P003280,Rúa de Manuel Lago Lago  1,Parada,42.1888985027434,-8.77629922356616,,,,,Europe/Madrid,1
+3179,P003890,Estrada da Coutada  39,Parada,42.1936252461571,-8.70142630034849,,,,,Europe/Madrid,1
+3180,P003900,Estrada da Coutada  19,Parada,42.1923292697724,-8.70474941422634,,,,,Europe/Madrid,1
+3033,P002500,Rúa de Ramiro Pascual (Igrexa),Parada,42.1919500624851,-8.70719351144965,,,,,Europe/Madrid,1
+5426,PA20155,Rúa de Ramiro Pascual  131,Parada,42.1921762602631,-8.70889900922193,,,,,Europe/Madrid,1
+3517,P007160,Rúa de Ramiro Pascual  97,Parada,42.1925265273887,-8.71258869568982,,,,,Europe/Madrid,1
+3515,P007140,Rúa de Ramiro Pascual  71,Parada,42.1936018293132,-8.71515793250757,,,,,Europe/Madrid,1
+3513,P007120,Rúa de Ramiro Pascual  33,Parada,42.1957954422317,-8.71689364115872,,,,,Europe/Madrid,1
+3387,P005950,Rúa dos Mestres Goldar  62,Parada,42.2071273254018,-8.72663688819168,,,,,Europe/Madrid,1
+3389,P005970,Rúa dos Mestres Goldar  96,Parada,42.2068802828959,-8.72997895166546,,,,,Europe/Madrid,1
+2917,P001340,Avda. de Castrelos (Parque),Parada,42.2128706446079,-8.73213179206354,,,,,Europe/Madrid,1
+3707,P008916,Rúa de Venezuela  60,Parada,42.2315936512886,-8.71714226992907,,,,,Europe/Madrid,1
+4863,PA20117,Estrada do Porto (cruce Camiño do Frascuelo),Parada,42.1916162088562,-8.70627783143982,,,,,Europe/Madrid,1
+4848,PA20107,Estrada do Porto (Lavadero),Parada,42.1882446963135,-8.70316436755172,,,,,Europe/Madrid,1
+4155,P0020083,Rúa Castañal  6,Parada,42.18807466896,-8.70192836660601,,,,,Europe/Madrid,1
+4156,P0020084,Rúa Castañal  26,Parada,42.1871107901486,-8.69951974291064,,,,,Europe/Madrid,1
+4157,P0020085,Rúa Castañal (cruce Camiño das Presas),Parada,42.1858524446918,-8.69641089155166,,,,,Europe/Madrid,1
+4158,P0020086,Estrada dos Seixiños  67,Parada,42.1906452811138,-8.69615058295022,,,,,Europe/Madrid,1
+4159,P0020087,Estrada dos Seixiños  23,Parada,42.1946393730928,-8.69679535723321,,,,,Europe/Madrid,1
+3182,P003920,Estrada da Coutada  65,Parada,42.1957256889185,-8.69715429294345,,,,,Europe/Madrid,1
+3093,P003060,Rúa da Ceboleira  30,Parada,42.2246980493746,-8.70174912317141,,,,,Europe/Madrid,1
+2792,P00120,Avda. do Alcalde Lavadores  8,Parada,42.2232882953618,-8.70095487286298,,,,,Europe/Madrid,1
+2795,P00150,Avda. do Alcalde Lavadores  48,Parada,42.2226366763984,-8.69720141285046,,,,,Europe/Madrid,1
+2793,P00130,Avda. do Alcalde Lavadores  102,Parada,42.219001693757,-8.69619826667889,,,,,Europe/Madrid,1
+2797,P00170,Avda. do Alcalde Lavadores  152,Parada,42.215084316033,-8.69685493070762,,,,,Europe/Madrid,1
+3150,P003600,Estrada de Bembrive  22,Parada,42.2124642396275,-8.69721884720906,,,,,Europe/Madrid,1
+3158,P003680,Estrada de Bembrive  64,Parada,42.2111449706307,-8.69652788980676,,,,,Europe/Madrid,1
+3144,P003560,Estrada de Bembrive  104,Parada,42.2091265179828,-8.69559984548761,,,,,Europe/Madrid,1
+3152,P003620,Estrada de Bembrive  278,Parada,42.2025629945486,-8.68543757722179,,,,,Europe/Madrid,1
+4039,P0014420,Estrada de Bembrive  318,Parada,42.2014192333176,-8.68852606920359,,,,,Europe/Madrid,1
+3155,P003650,Estrada de Bembrive  346,Parada,42.1992759186835,-8.68903294351193,,,,,Europe/Madrid,1
+3143,P003550,Estrada de Bembrive (cruce Camiño Cova),Parada,42.1974776502014,-8.68815854337308,,,,,Europe/Madrid,1
+3157,P003670,Estrada de Bembrive  398,Parada,42.1949688633751,-8.68920198111442,,,,,Europe/Madrid,1
+3160,P003700,Estrada de Bembrive (cruce Camiño Riomao),Parada,42.1940553853978,-8.69207967702027,,,,,Europe/Madrid,1
+3873,P0014252,Estrada Clara Campoamor (Instituto),Parada,42.1659342083592,-8.70724300137991,,,,,Europe/Madrid,1
+4003,P0014384,Estrada Clara Campoamor (Parque Tecnolóxico),Parada,42.1750734863185,-8.71349465355959,,,,,Europe/Madrid,1
+5560,PA20223,Avda. de Castrelos (Pavillón),Parada,42.2196914329993,-8.73251003930108,,,,,Europe/Madrid,1
+3123,P003360,Rúa do Doutor Canoa  8,Parada,42.2378035182262,-8.70440903090557,,,,,Europe/Madrid,1
+4044,P0014425,Avda. do Alcalde Gregorio Espino  2,Parada,42.2322537917903,-8.70720857463104,,,,,Europe/Madrid,1
+3362,P005710,Avda. do Alcalde Gregorio Espino  22,Parada,42.230108907829,-8.70723003230316,,,,,Europe/Madrid,1
+3364,P005730,Avda. do Alcalde Gregorio Espino  44,Parada,42.2279701369807,-8.70802421725414,,,,,Europe/Madrid,1
+3418,P006240,Avda. de E. Martínez Garrido  77,Parada,42.2244938442456,-8.70773494834046,,,,,Europe/Madrid,1
+3417,P006230,Avda. de E. Martínez Garrido  69,Parada,42.2248391452823,-8.70608221520487,,,,,Europe/Madrid,1
+3416,P006220,Avda. de E. Martínez Garrido  45,Parada,42.2261162694395,-8.70334636200968,,,,,Europe/Madrid,1
+3395,P006030,Rúa de Manuel Álvarez  102,Parada,42.2208299253999,-8.68515881242749,,,,,Europe/Madrid,1
+4054,P0014897,Camiño do Arieiro (fronte 13),Parada,42.2132391611061,-8.67854146959874,,,,,Europe/Madrid,1
+3955,P0014335,Camiño do Arieiro (Residencia de Maiores),Parada,42.2126922690338,-8.67566159946142,,,,,Europe/Madrid,1
+4055,P0014898,Camiño do Arieiro  13,Parada,42.2132391611062,-8.67836980822179,,,,,Europe/Madrid,1
+3392,P006000,Rúa de Manuel Álvarez  185,Parada,42.2208875316855,-8.68505957069394,,,,,Europe/Madrid,1
+5429,PA20158,Estrada do Porto  81,Parada,42.1855930554555,-8.70237797353917,,,,,Europe/Madrid,1
+4859,PA20114,Estrada do Porto (fronte Lavadero),Parada,42.1884620501618,-8.70335271105225,,,,,Europe/Madrid,1
+4861,PA20115,Estrada do Porto (fronte cruce Rúa das Sueiras),Parada,42.190100441237,-8.70545320444882,,,,,Europe/Madrid,1
+5428,PA20157,Estrada do Porto  88,Parada,42.1856154192632,-8.70242467773355,,,,,Europe/Madrid,1
+4962,PA20126,Estrada Clara Campoamor (Rotonda HAC),Parada,42.1902524523906,-8.71799861709664,,,,,Europe/Madrid,1
+5447,PA20171,Estrada Clara Campoamor (cruce Camiño da Pousa),Parada,42.2043807615603,-8.72668844512353,,,,,Europe/Madrid,1
+4961,PA20125,Estrada Clara Campoamor (fronte 6),Parada,42.2091269111845,-8.72934419742685,,,,,Europe/Madrid,1
+5514,PA20199,Rúa de Puerto Rico  12 ,Parada,42.2288022047212,-8.71813665266734,,,,,Europe/Madrid,1
+3740,P0014117,Rúa do Couto de San Honorato  26,Parada,42.2285747019432,-8.71286454798454,,,,,Europe/Madrid,1
+3742,P0014119,Rúa do Couto de San Honorato  80,Parada,42.2293207885857,-8.71039055088013,,,,,Europe/Madrid,1
+5476,PA20180,Rúa do Reiseñor  10 ,Parada,42.2295274073445,-8.70843783980575,,,,,Europe/Madrid,1
+3858,P0014237,Rúa de Manuel Cominges  134,Parada,42.1961197477996,-8.72345719758624,,,,,Europe/Madrid,1
+5529,PA20209,Avda. do Alcalde Portanet  23,Parada,42.2114816510853,-8.7344407459407,,,,,Europe/Madrid,1
+4864,PA20118,Rúa Conde de Gondomar,Parada,42.2283584880566,-8.71949090367036,,,,,Europe/Madrid,1
+3857,P0014236,Rúa de Manuel Cominges (fronte 112),Parada,42.196308523422,-8.72352693502063,,,,,Europe/Madrid,1
+3398,P006060,Rúa de Manuel Cominges  135,Parada,42.1967168023116,-8.72996698165386,,,,,Europe/Madrid,1
+3401,P006090,Rúa de Manuel Cominges  77,Parada,42.1976261511524,-8.73254684101522,,,,,Europe/Madrid,1
+3399,P006070,Rúa de Manuel Cominges  15,Parada,42.199197066038,-8.73658881622484,,,,,Europe/Madrid,1
+3105,P003180,Camiño de Quirós  106,Parada,42.2195586302934,-8.71141011869321,,,,,Europe/Madrid,1
+3103,P003160,Camiño da Falcoa  10,Parada,42.2065932455155,-8.72165179340055,,,,,Europe/Madrid,1
+3864,P0014243,Rúa das Chabarras  24,Parada,42.1965392141629,-8.71687443671274,,,,,Europe/Madrid,1
+3862,P0014241,Rúa das Chabarras  60,Parada,42.1978420225746,-8.71471632010488,,,,,Europe/Madrid,1
+5399,PA20142,Camiño do Outeiro  3,Parada,42.2007381878395,-8.71488287614724,,,,,Europe/Madrid,1
+5498,PA20189,Rúa da Saa  10,Parada,42.2016258526689,-8.71294504296219,,,,,Europe/Madrid,1
+5497,PA20188,Rúa da Saa (fronte 43),Parada,42.2016704023197,-8.70892846413069,,,,,Europe/Madrid,1
+3593,P007830,Rúa de Saa  72,Parada,42.2029708899533,-8.70794576222994,,,,,Europe/Madrid,1
+3405,P006130,Estrada do Marco  105,Parada,42.2071325911456,-8.70696729500534,,,,,Europe/Madrid,1
+4067,P0014910,Estrada do Marco  4,Parada,42.2102509499095,-8.70403698630125,,,,,Europe/Madrid,1
+4068,P0014911,Estrada do Marco  16,Parada,42.2088307369752,-8.70697117435742,,,,,Europe/Madrid,1
+3406,P006140,Estrada do Marco (Colexio),Parada,42.2069259668871,-8.7070504434848,,,,,Europe/Madrid,1
+3595,P007850,Rúa de Saa  57,Parada,42.202923204351,-8.70808523709871,,,,,Europe/Madrid,1
+4070,P0015002,PTL 2,Parada,42.177194637102,-8.7078508067915,,,,,Europe/Madrid,1
+4071,P0015003,PTL 3,Parada,42.1782312779492,-8.70647441842445,,,,,Europe/Madrid,1
+4072,P0015004,PTL 4,Parada,42.1765030166186,-8.71000730283947,,,,,Europe/Madrid,1
+5519,PA20202,Estación Marítima,Parada,42.2404374003046,-8.72604800848228,,,,,Europe/Madrid,1
+3425,P006305,O Castro,Parada,42.2308005824958,-8.72595496151908,,,,,Europe/Madrid,1
+3437,P006415,Parque de Castrelos (Museo),Parada,42.2138522140386,-8.72732286296178,,,,,Europe/Madrid,1
+3465,P006660,Praza da Porta do Sol,Parada,42.2379152928961,-8.72484658707515,,,,,Europe/Madrid,1
+3438,P006420,Paseo de Alfonso XII (Mirador),Parada,42.235988269319,-8.72852061802917,,,,,Europe/Madrid,1
+3445,P006490,Rúa de Pi i Margall  32,Parada,42.2339725135166,-8.72996300385898,,,,,Europe/Madrid,1
+4060,P0014903,Rúa de Pi i Margall  66,Parada,42.231747189742,-8.73108130834194,,,,,Europe/Madrid,1
+3447,P006510,Rúa de Pi i Margall  86,Parada,42.2305844868144,-8.73145915473648,,,,,Europe/Madrid,1
+3443,P006470,Rúa de Pi i Margall  108,Parada,42.2284589378294,-8.73220267427095,,,,,Europe/Madrid,1
+3378,P005870,Rúa de López Mora  10,Parada,42.2264326972108,-8.73126201261442,,,,,Europe/Madrid,1
+3782,P0014161,Rúa de López Mora  62,Parada,42.2241306988118,-8.73256824840468,,,,,Europe/Madrid,1
+3380,P005890,Rúa de López Mora  84,Parada,42.2224205328907,-8.7319969378845,,,,,Europe/Madrid,1
+5539,PA20214,Rúa da República Argentina  21,Parada,42.2375389731936,-8.71818635590856,,,,,Europe/Madrid,1
+5414,PA20145,Samil por Bouzas,Parada,42.2159441534059,-8.77472616227024,,,,,Europe/Madrid,1
+5413,PA20144,Samil por Coia,Parada,42.2159038556217,-8.77472485235216,,,,,Europe/Madrid,1
+5377,PA20137,Camiño da Devesa (Asociación Veciños),Parada,42.2465630407705,-8.66939581704764,,,,,Europe/Madrid,1
+4062,P0014905,Camiño da Devesa (Cemiterio),Parada,42.2499813527552,-8.66718650423513,,,,,Europe/Madrid,1
+5509,PA20194,Rúa de Cánovas del Castillo  28,Parada,42.2403649846236,-8.72453097425353,,,,,Europe/Madrid,1
+3744,P0014121,Rúa da Reconquista  2,Parada,42.238625473895,-8.72324209450599,,,,,Europe/Madrid,1
+5513,PA20198,Rúa de Policarpo Sanz  26,Parada,42.2375334281675,-8.72219504629317,,,,,Europe/Madrid,1
+3461,P006620,Rúa de Policarpo Sanz  40,Parada,42.2375705190405,-8.72100884798462,,,,,Europe/Madrid,1
