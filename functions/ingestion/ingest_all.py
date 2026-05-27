@@ -1,24 +1,43 @@
 from .stop_times import load_stop_times, build_stop_features
-from .parkingOcupation import parse_parkings, parkings_a_dataframe
-from .trafic import parse_trafico, trafico_a_dataframe
+from .parkingOcupation import parse_parkings, parkings_a_dataframe, parkings_a_geodataframe, asignar_parkings_a_paradas
+from .trafic import parse_trafico, trafico_a_dataframe, trafico_a_geodataframe, asignar_trafico_a_paradas
 from .weather import get_aemet_weather
 from .stops import load_stops
 import pandas as pd
 import numpy as np
 import os
 
+
 aemet_api_key = os.getenv("AEMET_API_KEY")
 
+def asignar_y_obtener_stops_enriquecidos(radio_metros_parkings: float = 500,radio_metros_trafico: float = 100):
+
+    stops_df = load_stops()
+
+    required = {"stop_id", "stop_lat", "stop_lon"}
+    missing = required - set(stops_df.columns)
+    if missing:
+        raise ValueError(f"Faltan columnas en stops_df: {sorted(missing)}")
+
+    # Enriquecer con parkings
+    parkings_gdf = parkings_a_geodataframe(parse_parkings())
+    stops_df = asignar_parkings_a_paradas(
+        stops_df=stops_df,
+        parkings_gdf=parkings_gdf,
+        radio_metros=radio_metros_parkings,
+    )
+
+    # Enriquecer con tráfico (sobre el df ya enriquecido con parkings)
+    tramos_gdf = trafico_a_geodataframe(parse_trafico())
+    stops_df = asignar_trafico_a_paradas(
+        stops_df=stops_df,
+        tramos_gdf=tramos_gdf,
+        radio_metros=radio_metros_trafico,
+    )
+
+    return stops_df
 
 def get_ingestion_data(municipio: str = "36057") -> dict:
-    # Parkings
-    parkings = parse_parkings()
-    parkings_df = parkings_a_dataframe(parkings)
-
-    # Tráfico
-    tramos = parse_trafico()
-    trafico_df = trafico_a_dataframe(tramos)
-
     # Paradas de bus
     stops = load_stops()
     stops_df = pd.DataFrame(stops)
@@ -36,10 +55,8 @@ def get_ingestion_data(municipio: str = "36057") -> dict:
         weather_df = pd.DataFrame()
 
     return {
-        "parkings": parkings_df,
-        "trafico": trafico_df,
         "weather": weather_df,
-        "stops": stops_df,
+        "stops_enriquecidas": df_to_records(asignar_y_obtener_stops_enriquecidos()),
         "stop_times": stop_times_df
     }
 
@@ -49,14 +66,6 @@ def df_to_records(data_frame):
 
 
 def get_ingestion_data_json(municipio: str = "36057") -> dict:
-
-    parkings = parse_parkings()
-    parkings_df = parkings_a_dataframe(parkings)
-
-
-    tramos = parse_trafico()
-    trafico_df = trafico_a_dataframe(tramos)
-
 
     stops = load_stops()
     stops_df = pd.DataFrame(stops)
@@ -74,10 +83,8 @@ def get_ingestion_data_json(municipio: str = "36057") -> dict:
         weather_df = pd.DataFrame()
 
     return {
-        "parkings": df_to_records(parkings_df),
-        "trafico": df_to_records(trafico_df),
         "weather": df_to_records(weather_df),
-        "stops": df_to_records(stops_df),
+        "stops_enriquecidas": df_to_records(asignar_y_obtener_stops_enriquecidos()),
         "stop_times": df_to_records(stop_times_df),
     }
 
