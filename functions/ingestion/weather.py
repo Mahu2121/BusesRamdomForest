@@ -1,6 +1,4 @@
 import os
-import urllib3
-from dotenv import load_dotenv
 import requests
 from dataclasses import dataclass
 from typing import Optional
@@ -155,10 +153,11 @@ class AEMETIngestion:
 
 
 def get_aemet_weather(api_key: Optional[str] = None, municipio: str = "36057") -> list:
-    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     if api_key is None:
-        load_dotenv()
-        api_key = os.environ.get("AEMET_API_KEY", "")
+        api_key = os.environ.get("AEMET_API_KEY")
+
+    if not api_key:
+        raise RuntimeError("Falta AEMET_API_KEY")
 
     url = f"https://opendata.aemet.es/opendata/api/prediccion/especifica/municipio/horaria/{municipio}"
     querystring = {"api_key": api_key} if api_key else {}
