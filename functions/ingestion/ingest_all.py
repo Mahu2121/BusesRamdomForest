@@ -1,5 +1,3 @@
-import dotenv
-
 from .stop_times import load_stop_times, build_stop_features
 from .parkingOcupation import parse_parkings, parkings_a_dataframe
 from .trafic import parse_trafico, trafico_a_dataframe
@@ -9,8 +7,7 @@ import pandas as pd
 import numpy as np
 import os
 
-dotenv.load_dotenv()
-aemet_api_key = os.getenv("AMETER_API_KEY")
+aemet_api_key = os.getenv("AEMET_API_KEY")
 
 
 def get_ingestion_data(municipio: str = "36057") -> dict:
