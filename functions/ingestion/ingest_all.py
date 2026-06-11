@@ -1,4 +1,3 @@
-from .stop_times import load_stop_times, build_stop_features
 from .parkingOcupation import parse_parkings, parkings_a_dataframe, parkings_a_geodataframe, asignar_parkings_a_paradas
 from .trafic import parse_trafico, trafico_a_dataframe, trafico_a_geodataframe, asignar_trafico_a_paradas
 from .weather import get_aemet_weather
@@ -38,13 +37,6 @@ def asignar_y_obtener_stops_enriquecidos(radio_metros_parkings: float = 500,radi
     return stops_df
 
 def get_ingestion_data(municipio: str = "36057") -> dict:
-    # Paradas de bus
-    stops = load_stops()
-    stops_df = pd.DataFrame(stops)
-
-    # Tiempos
-    stop_times = load_stop_times()
-    stop_times_df = build_stop_features(stops_df, stop_times)
 
     # Weather
     try:
@@ -57,7 +49,6 @@ def get_ingestion_data(municipio: str = "36057") -> dict:
     return {
         "weather": weather_df,
         "stops_enriquecidas": df_to_records(asignar_y_obtener_stops_enriquecidos()),
-        "stop_times": stop_times_df
     }
 
 # convierte dataframe a lista de diccionarios, reemplazando NaN por None para compatibilidad con JSON para la funcion de firebase
@@ -66,14 +57,6 @@ def df_to_records(data_frame):
 
 
 def get_ingestion_data_json(municipio: str = "36057") -> dict:
-
-    stops = load_stops()
-    stops_df = pd.DataFrame(stops)
-
-
-    stop_times = load_stop_times()
-    stop_times_df = build_stop_features(stops_df, stop_times)
-
 
     try:
         weather_records = get_aemet_weather(api_key=aemet_api_key, municipio=municipio)
@@ -85,7 +68,6 @@ def get_ingestion_data_json(municipio: str = "36057") -> dict:
     return {
         "weather": df_to_records(weather_df),
         "stops_enriquecidas": df_to_records(asignar_y_obtener_stops_enriquecidos()),
-        "stop_times": df_to_records(stop_times_df),
     }
 
 if __name__ == "__main__":
