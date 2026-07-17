@@ -2,7 +2,7 @@
 
 Modelo de predicción basado en **Random Forest** para estimar tiempos de llegada de autobuses en tiempo real, integrado con Firebase como backend.
 
-Desarrollado como motor de predicción para la aplicación **[Confibus](https://github.com/tu-usuario/Confibus)**.
+Desarrollado como motor de predicción para la aplicación **[Confibus](https://github.com/Mahu2121/ConfiBus.git)**.
 
 ---
 
